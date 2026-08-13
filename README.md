@@ -216,7 +216,7 @@
 
 * [didi/chameleon](https://github.com/didi/chameleon) ⚠️ Archived [![GitHub stars](https://img.shields.io/github/stars/didi/chameleon.svg)]() 一套代码运行多端，一端所见即多端所见。支持web、微信小程序、weex、百度小程序、支付宝小程序
 
-* [F2](https://github.com/antvis/f2) ⭐ 7,993 | 🐛 303 | 🌐 JavaScript | 📅 2026-05-19 [![GitHub stars](https://img.shields.io/github/stars/antvis/f2.svg)]() 一个专注于移动，开箱即用的可视化解决方案，完美支持 H5 环境同时兼容多种环境（node, 小程序，weex）。
+* [F2](https://github.com/antvis/f2) ⭐ 7,994 | 🐛 303 | 🌐 JavaScript | 📅 2026-05-19 [![GitHub stars](https://img.shields.io/github/stars/antvis/f2.svg)]() 一个专注于移动，开箱即用的可视化解决方案，完美支持 H5 环境同时兼容多种环境（node, 小程序，weex）。
 
 * [weex-ui](https://github.com/alibaba/weex-ui) ⚠️ Archived [![GitHub stars](https://img.shields.io/github/stars/alibaba/weex-ui.svg)]() Weex Ui 是一套 Alibaba 完全基于 Weex 特性封装的组件库，包含大部分 Weex 业务中所需基础功能组件和相关解决方案。
 
@@ -226,7 +226,7 @@
 
 * [weex-frame](https://github.com/osmartian/weex-frame) ⭐ 427 | 🐛 29 | 🌐 JavaScript | 📅 2019-11-05 [![GitHub stars](https://img.shields.io/github/stars/osmartian/weex-frame.svg)]() weex 基于vue2.0开发框架库，包括三端集成、组件库提供、weex api封装等等
 
-* [clchart](https://github.com/seerline/clchart) ⭐ 335 | 🐛 19 | 🌐 JavaScript | 📅 2021-07-11 [![GitHub stars](https://img.shields.io/github/stars/seerline/clchart.svg)]() 跨平台(html5 react-native weex wechat-applet) 的股票图表库
+* [clchart](https://github.com/seerline/clchart) ⭐ 334 | 🐛 19 | 🌐 JavaScript | 📅 2021-07-11 [![GitHub stars](https://img.shields.io/github/stars/seerline/clchart.svg)]() 跨平台(html5 react-native weex wechat-applet) 的股票图表库
 
 * [nat](https://github.com/natjs/nat) ⭐ 280 | 🐛 35 | 🌐 JavaScript | 📅 2018-03-17 [![GitHub stars](https://img.shields.io/github/stars/natjs/nat.svg)]() 轻松为你构建的 Weex 应用加入原生功能
 

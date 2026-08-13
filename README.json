@@ -648,7 +648,7 @@
             "last_commit": "2023-01-07T22:16:40Z",
             "owner": "didi",
             "repo": "chameleon",
-            "stars": 8954
+            "stars": 8953
           }
         },
         {
@@ -662,7 +662,7 @@
             "last_commit": "2026-05-19T10:57:41Z",
             "owner": "antvis",
             "repo": "F2",
-            "stars": 7993
+            "stars": 7994
           }
         },
         {
@@ -676,7 +676,7 @@
             "last_commit": "2021-05-27T12:59:54Z",
             "owner": "apache",
             "repo": "incubator-weex-ui",
-            "stars": 4720
+            "stars": 4719
           }
         },
         {
@@ -732,7 +732,7 @@
             "last_commit": "2021-07-11T13:16:55Z",
             "owner": "seerline",
             "repo": "clchart",
-            "stars": 335
+            "stars": 334
           }
         },
         {
@@ -965,7 +965,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:29:00.661Z",
+    "last_updated": "2026-08-13T15:07:00.784Z",
     "original_repository": "joggerplus/awesome-weex",
     "original_repository_sha": "cf70e002a47e700e4eb171a4ba8b6ade23b0be6e",
     "enhanced_repository": "enhansome/enhansome-weex",
