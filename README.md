@@ -152,7 +152,7 @@
 * [vim-vue](https://github.com/posva/vim-vue) ⭐ 1,280 | 🐛 31 | 🌐 Vim Script | 📅 2024-03-30 [![GitHub stars](https://img.shields.io/github/stars/posva/vim-vue.svg)]()
   Syntax Highligth for Vue.js components
 
-* [Thera](https://github.com/alibaba/Thera) ⭐ 302 | 🐛 20 | 🌐 CoffeeScript | 📅 2017-08-09 [![GitHub stars](https://img.shields.io/github/stars/alibaba/Thera.svg)]() IDE,支持weex, luaview, react native
+* [Thera](https://github.com/alibaba/Thera) ⭐ 303 | 🐛 20 | 🌐 CoffeeScript | 📅 2017-08-09 [![GitHub stars](https://img.shields.io/github/stars/alibaba/Thera.svg)]() IDE,支持weex, luaview, react native
 
 * [weex-vue-starter-kit](https://github.com/ElemeFE/weex-vue-starter-kit) ⭐ 179 | 🐛 2 | 🌐 JavaScript | 📅 2017-05-17 [![GitHub stars](https://img.shields.io/github/stars/ElemeFE/weex-vue-starter-kit.svg)]()
 
@@ -284,4 +284,4 @@ copyright (c) 2016 coderyi.all rights reserved.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
