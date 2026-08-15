@@ -241,7 +241,7 @@
             "last_commit": "2024-03-30T11:53:18Z",
             "owner": "posva",
             "repo": "vim-vue",
-            "stars": 1280
+            "stars": 1279
           }
         },
         {
@@ -904,7 +904,7 @@
             "last_commit": "2022-04-13T09:32:03Z",
             "owner": "jobbole",
             "repo": "awesome-javascript-cn",
-            "stars": 7807
+            "stars": 7806
           }
         },
         {
@@ -918,7 +918,7 @@
             "last_commit": "2026-02-08T09:07:35Z",
             "owner": "icepy",
             "repo": "Front-End-Develop-Guide",
-            "stars": 2914
+            "stars": 2915
           }
         },
         {
@@ -965,7 +965,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T15:01:24.469Z",
+    "last_updated": "2026-08-15T14:32:25.578Z",
     "original_repository": "joggerplus/awesome-weex",
     "original_repository_sha": "cf70e002a47e700e4eb171a4ba8b6ade23b0be6e",
     "enhanced_repository": "enhansome/enhansome-weex",
