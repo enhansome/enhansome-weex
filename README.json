@@ -662,7 +662,7 @@
             "last_commit": "2026-05-19T10:57:41Z",
             "owner": "antvis",
             "repo": "F2",
-            "stars": 7994
+            "stars": 7993
           }
         },
         {
@@ -676,7 +676,7 @@
             "last_commit": "2021-05-27T12:59:54Z",
             "owner": "apache",
             "repo": "incubator-weex-ui",
-            "stars": 4719
+            "stars": 4718
           }
         },
         {
@@ -965,7 +965,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T14:32:09.431Z",
+    "last_updated": "2026-08-17T14:37:20.501Z",
     "original_repository": "joggerplus/awesome-weex",
     "original_repository_sha": "cf70e002a47e700e4eb171a4ba8b6ade23b0be6e",
     "enhanced_repository": "enhansome/enhansome-weex",
