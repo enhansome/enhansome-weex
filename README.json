@@ -1,130 +1,140 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "阿里无线前端博客",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 39115652,
+                "language": null,
+                "last_commit": "2016-03-19T01:29:34Z",
+                "owner": "amfe",
+                "repo": "article",
+                "stars": 7526
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "对无线电商动态化方案的思考（一 - 三）",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 39115652,
+                "language": null,
+                "last_commit": "2016-03-19T01:29:34Z",
+                "owner": "amfe",
+                "repo": "article",
+                "stars": 7526
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "weex团队博客 - weex文档译文",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 60689328,
+                "language": null,
+                "last_commit": "2016-09-01T16:53:12Z",
+                "owner": "weexteam",
+                "repo": "article",
+                "stars": 1209
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "weex 学习/实践指南",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 65186086,
+                "language": "JavaScript",
+                "last_commit": "2016-09-09T04:24:12Z",
+                "owner": "vczero",
+                "repo": "weex-learning",
+                "stars": 263
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Weex源码分析系列文章",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 108077567,
+                "language": null,
+                "last_commit": "2018-01-19T07:57:55Z",
+                "owner": "liuzhao2007",
+                "repo": "Weex-Analysis-Project",
+                "stars": 115
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "h5weex相关文章",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 67915878,
+                "language": "HTML",
+                "last_commit": "2016-09-25T10:52:26Z",
+                "owner": "h5weex",
+                "repo": "h5weex-books",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "h5weex-books",
+              "description": "h5weex相关文章",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 67915878,
+                "language": "HTML",
+                "last_commit": "2016-09-25T10:52:26Z",
+                "owner": "h5weex",
+                "repo": "h5weex-books",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "weex note - sunqichao",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 77892684,
+                "language": null,
+                "last_commit": "2017-01-12T05:52:57Z",
+                "owner": "sunqichao",
+                "repo": "sqcweex.github.com",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "通用教程"
+        }
+      ],
       "title": "教程"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "阿里无线前端博客",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2016-03-19T01:29:34Z",
-            "owner": "amfe",
-            "repo": "article",
-            "stars": 7526
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "对无线电商动态化方案的思考（一 - 三）",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2016-03-19T01:29:34Z",
-            "owner": "amfe",
-            "repo": "article",
-            "stars": 7526
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "weex团队博客 - weex文档译文",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": null,
-            "last_commit": "2016-09-01T16:53:12Z",
-            "owner": "weexteam",
-            "repo": "article",
-            "stars": 1209
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "weex 学习/实践指南",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2016-09-09T04:24:12Z",
-            "owner": "vczero",
-            "repo": "weex-learning",
-            "stars": 263
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Weex源码分析系列文章",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2018-01-19T07:57:55Z",
-            "owner": "liuzhao2007",
-            "repo": "Weex-Analysis-Project",
-            "stars": 115
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "h5weex相关文章",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2016-09-25T10:52:26Z",
-            "owner": "h5weex",
-            "repo": "h5weex-books",
-            "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "h5weex-books",
-          "description": "h5weex相关文章",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2016-09-25T10:52:26Z",
-            "owner": "h5weex",
-            "repo": "h5weex-books",
-            "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "weex note - sunqichao",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2017-01-12T05:52:57Z",
-            "owner": "sunqichao",
-            "repo": "sqcweex.github.com",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "通用教程"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -133,6 +143,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 60689328,
             "language": null,
             "last_commit": "2016-09-01T16:53:12Z",
             "owner": "weexteam",
@@ -147,6 +158,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 60689328,
             "language": null,
             "last_commit": "2016-09-01T16:53:12Z",
             "owner": "weexteam",
@@ -161,6 +173,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 60689328,
             "language": null,
             "last_commit": "2016-09-01T16:53:12Z",
             "owner": "weexteam",
@@ -175,6 +188,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 60689328,
             "language": null,
             "last_commit": "2016-09-01T16:53:12Z",
             "owner": "weexteam",
@@ -189,6 +203,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 110221851,
             "language": null,
             "last_commit": "2021-05-21T03:10:07Z",
             "owner": "zwwill",
@@ -200,7 +215,7 @@
       "title": "文章"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -209,6 +224,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 110489830,
             "language": "Vue",
             "last_commit": "2019-03-03T16:42:30Z",
             "owner": "bmfe",
@@ -223,6 +239,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26773986,
             "language": null,
             "last_commit": "2023-10-30T07:25:41Z",
             "owner": "vuejs",
@@ -237,6 +254,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43940141,
             "language": "Vim Script",
             "last_commit": "2024-03-30T11:53:18Z",
             "owner": "posva",
@@ -251,6 +269,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 83537304,
             "language": "CoffeeScript",
             "last_commit": "2017-08-09T08:58:30Z",
             "owner": "alibaba",
@@ -265,6 +284,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81543711,
             "language": "JavaScript",
             "last_commit": "2017-05-17T02:48:47Z",
             "owner": "ElemeFE",
@@ -279,6 +299,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 62036161,
             "language": "JavaScript",
             "last_commit": "2021-05-27T13:03:04Z",
             "owner": "apache",
@@ -293,6 +314,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71098148,
             "language": "Java",
             "last_commit": "2020-03-30T07:32:23Z",
             "owner": "misakuo",
@@ -307,666 +329,686 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 94440985,
             "language": "JavaScript",
             "last_commit": "2019-03-29T05:43:32Z",
             "owner": "easy-team",
             "repo": "easywebpack-weex",
             "stars": 7
           }
-        },
-        {
-          "node_type": "item",
-          "title": "bui-weex",
-          "description": "专门为 Weex 前端开发者打造的一套高质量UI框架",
-          "children": []
         }
       ],
       "title": "工具"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "项目"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "yanxuan-weex-demo",
-          "description": "高仿网易严选App",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2021-04-26T12:54:30Z",
-            "owner": "zwwill",
-            "repo": "yanxuan-weex-demo",
-            "stars": 3009
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "weex-hackernews",
-          "description": "首个使用 Weex 和 Vue 开发的 Hacker News 原生应用。",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Java",
-            "last_commit": "2018-01-04T13:29:25Z",
-            "owner": "weexteam",
-            "repo": "hackernews-App-powered-by-Apache-Weex",
-            "stars": 1141
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WeexOne",
-          "description": "Weex [one 一个]客户端",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Java",
-            "last_commit": "2017-07-01T10:26:33Z",
-            "owner": "dodola",
-            "repo": "WeexOne",
-            "stars": 965
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mpvue-weex",
-          "description": "一套 Vue 代码，五端可用(H5、小程序、PC、苹果App、安卓App）",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vue",
-            "last_commit": "2019-12-20T01:57:08Z",
-            "owner": "alaboshu",
-            "repo": "alaweb",
-            "stars": 863
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GSYGithubAppWeex",
-          "description": "拥有Flutter、Weex、ReactNative三个版本。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-11T22:31:21Z",
-            "owner": "CarGuo",
-            "repo": "GSYGithubAppWeex",
-            "stars": 748
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "github client weex",
-          "description": "用Weex写的GitHub的第三方客户端",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2020-05-06T02:03:38Z",
-            "owner": "coderyi",
-            "repo": "hello-weex",
-            "stars": 190
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "weex-xianyu",
-          "description": "xianyu app based on weex(仿咸鱼app)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Objective-C",
-            "last_commit": "2017-09-28T14:54:54Z",
-            "owner": "herozhou",
-            "repo": "weex-xianyu",
-            "stars": 189
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "weex-todo-list",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "yanxuan-weex-demo",
+              "description": "高仿网易严选App",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 102474797,
+                "language": "Java",
+                "last_commit": "2021-04-26T12:54:30Z",
+                "owner": "zwwill",
+                "repo": "yanxuan-weex-demo",
+                "stars": 3009
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "weex-hackernews",
+              "description": "首个使用 Weex 和 Vue 开发的 Hacker News 原生应用。",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 75893370,
+                "language": "Java",
+                "last_commit": "2018-01-04T13:29:25Z",
+                "owner": "weexteam",
+                "repo": "hackernews-App-powered-by-Apache-Weex",
+                "stars": 1141
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WeexOne",
+              "description": "Weex [one 一个]客户端",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 60775841,
+                "language": "Java",
+                "last_commit": "2017-07-01T10:26:33Z",
+                "owner": "dodola",
+                "repo": "WeexOne",
+                "stars": 965
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mpvue-weex",
+              "description": "一套 Vue 代码，五端可用(H5、小程序、PC、苹果App、安卓App）",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 138660042,
+                "language": "Vue",
+                "last_commit": "2019-12-20T01:57:08Z",
+                "owner": "alaboshu",
+                "repo": "alaweb",
+                "stars": 863
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GSYGithubAppWeex",
+              "description": "拥有Flutter、Weex、ReactNative三个版本。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 127766639,
+                "language": "JavaScript",
+                "last_commit": "2026-08-11T22:31:21Z",
+                "owner": "CarGuo",
+                "repo": "GSYGithubAppWeex",
+                "stars": 748
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "github client weex",
+              "description": "用Weex写的GitHub的第三方客户端",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71704018,
+                "language": "Java",
+                "last_commit": "2020-05-06T02:03:38Z",
+                "owner": "coderyi",
+                "repo": "hello-weex",
+                "stars": 190
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "weex-xianyu",
+              "description": "xianyu app based on weex(仿咸鱼app)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 94497957,
+                "language": "Objective-C",
+                "last_commit": "2017-09-28T14:54:54Z",
+                "owner": "herozhou",
+                "repo": "weex-xianyu",
+                "stars": 189
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "weex-todo-list",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 82892337,
+                "language": "Java",
+                "last_commit": "2017-03-24T13:32:04Z",
+                "owner": "tralves",
+                "repo": "weex-todo-list",
+                "stars": 154
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "amap-running-app",
+              "description": "一款简易的跑步App",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 85276235,
+                "language": "Java",
+                "last_commit": "2017-04-27T04:58:59Z",
+                "owner": "weex-plugins",
+                "repo": "amap-running-app-for-apache-weex",
+                "stars": 115
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "weex-yy",
+              "description": "微阅读",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 65090794,
+                "language": "JavaScript",
+                "last_commit": "2016-10-09T05:14:07Z",
+                "owner": "vczero",
+                "repo": "weex-yy",
+                "stars": 109
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WeexJandan",
+              "description": "Weex Vue写的解析HTML应用",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 89050714,
+                "language": "JavaScript",
+                "last_commit": "2018-04-10T05:54:55Z",
+                "owner": "totzcc",
+                "repo": "WeexJandan",
+                "stars": 99
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "toolbox-weex",
+              "description": "Weex - Some simple native UI pages written with Weex | 几个简单的原生界面示例，面向新手 & 用 Weex 编写",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 63051032,
+                "language": "JavaScript",
+                "last_commit": "2016-08-17T01:25:33Z",
+                "owner": "hugojing",
+                "repo": "toolbox-weex",
+                "stars": 76
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "weex-toutiao",
+              "description": "基于WEEX +Vue2.0仿照今日头条的app项目",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 101946853,
+                "language": "Objective-C",
+                "last_commit": "2017-09-01T11:11:19Z",
+                "owner": "weexext",
+                "repo": "weex-toutiao",
+                "stars": 74
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WeexZhihuDaily",
+              "description": "weex版知乎日报",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 76782643,
+                "language": "JavaScript",
+                "last_commit": "2017-01-16T03:34:56Z",
+                "owner": "nuptboyzhb",
+                "repo": "WeexZhihuDaily",
+                "stars": 71
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "incubator-weex-playground",
+              "description": "Playground for Apache Weex, demo purpose only",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 195177223,
+                "language": "Java",
+                "last_commit": "2021-05-27T13:02:21Z",
+                "owner": "apache",
+                "repo": "incubator-weex-playground",
+                "stars": 45
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "weex-job",
+              "description": "weex+node爬虫开发的内推职位app",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 94630390,
+                "language": "JavaScript",
+                "last_commit": "2018-03-09T04:37:10Z",
+                "owner": "herozhou",
+                "repo": "weex-job",
+                "stars": 43
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "just-do-8",
+              "description": "使用 Weex 开发的益智类小游戏",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 103151667,
+                "language": "JavaScript",
+                "last_commit": "2021-04-26T13:04:55Z",
+                "owner": "zwwill",
+                "repo": "JustDo8-weex-game",
+                "stars": 27
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "monkey-weex",
+              "description": "Monkey是一个GitHub Weex客户端，展示GitHub用户和仓库的排名",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 311984360,
+                "language": "JavaScript",
+                "last_commit": "2020-11-11T14:56:37Z",
+                "owner": "coderyi",
+                "repo": "monkey-weex",
+                "stars": 4
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2017-03-24T13:32:04Z",
-            "owner": "tralves",
-            "repo": "weex-todo-list",
-            "stars": 154
-          }
+          "node_type": "group",
+          "title": "App"
         },
         {
-          "node_type": "item",
-          "title": "amap-running-app",
-          "description": "一款简易的跑步App",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Java",
-            "last_commit": "2017-04-27T04:58:59Z",
-            "owner": "weex-plugins",
-            "repo": "amap-running-app-for-apache-weex",
-            "stars": 115
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "weex-frame",
+              "description": "weex 基于vue2.0开发框架",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 83784226,
+                "language": "JavaScript",
+                "last_commit": "2019-11-05T03:03:03Z",
+                "owner": "walid1992",
+                "repo": "weex-frame",
+                "stars": 427
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "weex-vue-examples",
+              "description": "Examples of using Weex and Vue.js",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 78620601,
+                "language": "JavaScript",
+                "last_commit": "2026-07-28T22:09:42Z",
+                "owner": "Hanks10100",
+                "repo": "weex-vue-examples",
+                "stars": 212
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "weex-demo-dusan",
+              "description": "A demo which is based on weex ,it contains splash,guide ,login,and home page. on upgrading...",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 62614647,
+                "language": "JavaScript",
+                "last_commit": "2024-10-01T04:06:41Z",
+                "owner": "duqian291902259",
+                "repo": "weex-up",
+                "stars": 179
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "demo"
         },
         {
-          "node_type": "item",
-          "title": "weex-yy",
-          "description": "微阅读",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2016-10-09T05:14:07Z",
-            "owner": "vczero",
-            "repo": "weex-yy",
-            "stars": 109
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "didi/chameleon",
+              "description": "一套代码运行多端，一端所见即多端所见。支持web、微信小程序、weex、百度小程序、支付宝小程序",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 166419150,
+                "language": "JavaScript",
+                "last_commit": "2023-01-07T22:16:40Z",
+                "owner": "didi",
+                "repo": "chameleon",
+                "stars": 8952
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "F2",
+              "description": "一个专注于移动，开箱即用的可视化解决方案，完美支持 H5 环境同时兼容多种环境（node, 小程序，weex）。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 66817370,
+                "language": "JavaScript",
+                "last_commit": "2026-05-19T10:57:41Z",
+                "owner": "antvis",
+                "repo": "F2",
+                "stars": 7993
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "weex-ui",
+              "description": "Weex Ui 是一套 Alibaba 完全基于 Weex 特性封装的组件库，包含大部分 Weex 业务中所需基础功能组件和相关解决方案。",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 105006031,
+                "language": "Vue",
+                "last_commit": "2021-05-27T12:59:54Z",
+                "owner": "apache",
+                "repo": "incubator-weex-ui",
+                "stars": 4718
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "bindingx",
+              "description": "基于 weex / React Native 的富交互解决方案。",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 120870238,
+                "language": "JavaScript",
+                "last_commit": "2023-03-06T13:25:39Z",
+                "owner": "alibaba",
+                "repo": "bindingx",
+                "stars": 1270
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "alibaba - BindingX",
+              "description": "基于 weex / React Native 的富交互解决方案。",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 120870238,
+                "language": "JavaScript",
+                "last_commit": "2023-03-06T13:25:39Z",
+                "owner": "alibaba",
+                "repo": "bindingx",
+                "stars": 1270
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "weex-frame",
+              "description": "weex 基于vue2.0开发框架库，包括三端集成、组件库提供、weex api封装等等",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 83784226,
+                "language": "JavaScript",
+                "last_commit": "2019-11-05T03:03:03Z",
+                "owner": "walid1992",
+                "repo": "weex-frame",
+                "stars": 427
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "clchart",
+              "description": "跨平台(html5 react-native weex wechat-applet) 的股票图表库",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 129370937,
+                "language": "JavaScript",
+                "last_commit": "2021-07-11T13:16:55Z",
+                "owner": "seerline",
+                "repo": "clchart",
+                "stars": 334
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nat",
+              "description": "轻松为你构建的 Weex 应用加入原生功能",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 78175714,
+                "language": "JavaScript",
+                "last_commit": "2018-03-17T08:28:55Z",
+                "owner": "natjs",
+                "repo": "nat",
+                "stars": 280
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WeexiOSKit",
+              "description": "扩展了许多iOS上的Component和Module",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71704018,
+                "language": "Java",
+                "last_commit": "2020-05-06T02:03:38Z",
+                "owner": "coderyi",
+                "repo": "hello-weex",
+                "stars": 190
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "weex-amui",
+              "description": "Weex版本的Ant Design Mobile",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 133681498,
+                "language": "Vue",
+                "last_commit": "2023-09-28T03:25:50Z",
+                "owner": "hminghe",
+                "repo": "weex-amui",
+                "stars": 125
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "weex-amap",
+              "description": "高德地图weex插件",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 79517924,
+                "language": "JavaScript",
+                "last_commit": "2019-04-01T06:52:24Z",
+                "owner": "weex-plugins",
+                "repo": "Amap-for-Apache-Weex",
+                "stars": 92
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WeexPlus",
+              "description": "提供weex调用android native方法的一套扩展通信交互库，包含页面导航、数据存储、图片选择、二维码识别、权限等。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 135966737,
+                "language": "JavaScript",
+                "last_commit": "2022-12-08T04:39:20Z",
+                "owner": "goldze",
+                "repo": "WeexPlus",
+                "stars": 76
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "weex-flymeui",
+              "description": "A Flyme Style UI library based on Weex for Creator.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 113938474,
+                "language": "JavaScript",
+                "last_commit": "2018-11-26T05:04:08Z",
+                "owner": "FlymeApps",
+                "repo": "weex-flymeui",
+                "stars": 69
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "weex-vue-router",
+              "description": "router for weex as you can use some feature of vue-router",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 82567145,
+                "language": "JavaScript",
+                "last_commit": "2018-09-22T01:23:59Z",
+                "owner": "dongnaebi",
+                "repo": "weex-vue-router",
+                "stars": 68
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "weex-x",
+              "description": "Flux-inspired-Architecture-Vuex-inspired-Architecture for Weex.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 65919873,
+                "language": "JavaScript",
+                "last_commit": "2018-02-07T12:59:27Z",
+                "owner": "Jinjiang",
+                "repo": "weex-x",
+                "stars": 56
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "weex-tabbar",
+              "description": "weex custom tabbar Component , Support children component.(weex自定义tabbar组件)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 69322131,
+                "language": "JavaScript",
+                "last_commit": "2016-11-19T02:48:56Z",
+                "owner": "obetame",
+                "repo": "weex-tabbar",
+                "stars": 39
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "weex-rx-framework",
+              "description": "Rx framework for weex",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 62112941,
+                "language": null,
+                "last_commit": "2017-01-20T08:41:38Z",
+                "owner": "weexteam",
+                "repo": "Rax-Framework-for-Apache-Weex",
+                "stars": 7
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "库"
         },
         {
-          "node_type": "item",
-          "title": "WeexJandan",
-          "description": "Weex Vue写的解析HTML应用",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2018-04-10T05:54:55Z",
-            "owner": "totzcc",
-            "repo": "WeexJandan",
-            "stars": 99
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "toolbox-weex",
-          "description": "Weex - Some simple native UI pages written with Weex | 几个简单的原生界面示例，面向新手 & 用 Weex 编写",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2016-08-17T01:25:33Z",
-            "owner": "hugojing",
-            "repo": "toolbox-weex",
-            "stars": 76
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "weex-toutiao",
-          "description": "基于WEEX +Vue2.0仿照今日头条的app项目",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Objective-C",
-            "last_commit": "2017-09-01T11:11:19Z",
-            "owner": "weexext",
-            "repo": "weex-toutiao",
-            "stars": 74
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WeexZhihuDaily",
-          "description": "weex版知乎日报",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2017-01-16T03:34:56Z",
-            "owner": "nuptboyzhb",
-            "repo": "WeexZhihuDaily",
-            "stars": 71
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "incubator-weex-playground",
-          "description": "Playground for Apache Weex, demo purpose only",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Java",
-            "last_commit": "2021-05-27T13:02:21Z",
-            "owner": "apache",
-            "repo": "incubator-weex-playground",
-            "stars": 45
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "weex-job",
-          "description": "weex+node爬虫开发的内推职位app",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2018-03-09T04:37:10Z",
-            "owner": "herozhou",
-            "repo": "weex-job",
-            "stars": 43
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "just-do-8",
-          "description": "使用 Weex 开发的益智类小游戏",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-04-26T13:04:55Z",
-            "owner": "zwwill",
-            "repo": "JustDo8-weex-game",
-            "stars": 27
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "monkey-weex",
-          "description": "Monkey是一个GitHub Weex客户端，展示GitHub用户和仓库的排名",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2020-11-11T14:56:37Z",
-            "owner": "coderyi",
-            "repo": "monkey-weex",
-            "stars": 4
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "awesome-javascript-cn",
+              "description": "JavaScript 资源大全中文版，内容包括：包管理器、加载器、测试框架、运行器、QA、MVC框架和库、模板引擎等",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45461509,
+                "language": null,
+                "last_commit": "2022-04-13T09:32:03Z",
+                "owner": "jobbole",
+                "repo": "awesome-javascript-cn",
+                "stars": 7806
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Front-End-Develop-Guide",
+              "description": "Awsome The Front End Develop Guide：这份指南汇集了前端开发所使用语言的主流学习资源，并以开发者的视角进行整理编排而成。",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 41167393,
+                "language": "JavaScript",
+                "last_commit": "2026-02-08T09:07:35Z",
+                "owner": "icepy",
+                "repo": "Front-End-Develop-Guide",
+                "stars": 2914
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-css-cn",
+              "description": "CSS 资源大全中文版，内容包括：CSS预处理器、框架、CSS结构、代码风格指南、命名习惯等等",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45461931,
+                "language": null,
+                "last_commit": "2020-06-28T07:13:07Z",
+                "owner": "jobbole",
+                "repo": "awesome-css-cn",
+                "stars": 1688
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-javascript",
+              "description": "A learning guide for JavaScript programmers. http://wwsun.github.io 中文",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31694327,
+                "language": null,
+                "last_commit": "2019-05-04T07:46:47Z",
+                "owner": "wwsun",
+                "repo": "awesome-javascript",
+                "stars": 763
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "前端基础"
         }
       ],
-      "title": "App"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "weex-frame",
-          "description": "weex 基于vue2.0开发框架",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2019-11-05T03:03:03Z",
-            "owner": "walid1992",
-            "repo": "weex-frame",
-            "stars": 427
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "weex-vue-examples",
-          "description": "Examples of using Weex and Vue.js",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-07-28T22:09:42Z",
-            "owner": "Hanks10100",
-            "repo": "weex-vue-examples",
-            "stars": 212
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "weex-demo-dusan",
-          "description": "A demo which is based on weex ,it contains splash,guide ,login,and home page. on upgrading...",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-10-01T04:06:41Z",
-            "owner": "duqian291902259",
-            "repo": "weex-up",
-            "stars": 179
-          }
-        }
-      ],
-      "title": "demo"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "didi/chameleon",
-          "description": "一套代码运行多端，一端所见即多端所见。支持web、微信小程序、weex、百度小程序、支付宝小程序",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2023-01-07T22:16:40Z",
-            "owner": "didi",
-            "repo": "chameleon",
-            "stars": 8952
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "F2",
-          "description": "一个专注于移动，开箱即用的可视化解决方案，完美支持 H5 环境同时兼容多种环境（node, 小程序，weex）。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-05-19T10:57:41Z",
-            "owner": "antvis",
-            "repo": "F2",
-            "stars": 7992
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "weex-ui",
-          "description": "Weex Ui 是一套 Alibaba 完全基于 Weex 特性封装的组件库，包含大部分 Weex 业务中所需基础功能组件和相关解决方案。",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Vue",
-            "last_commit": "2021-05-27T12:59:54Z",
-            "owner": "apache",
-            "repo": "incubator-weex-ui",
-            "stars": 4718
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "bindingx",
-          "description": "基于 weex / React Native 的富交互解决方案。",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2023-03-06T13:25:39Z",
-            "owner": "alibaba",
-            "repo": "bindingx",
-            "stars": 1270
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "alibaba - BindingX",
-          "description": "基于 weex / React Native 的富交互解决方案。",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2023-03-06T13:25:39Z",
-            "owner": "alibaba",
-            "repo": "bindingx",
-            "stars": 1270
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "weex-frame",
-          "description": "weex 基于vue2.0开发框架库，包括三端集成、组件库提供、weex api封装等等",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2019-11-05T03:03:03Z",
-            "owner": "walid1992",
-            "repo": "weex-frame",
-            "stars": 427
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "clchart",
-          "description": "跨平台(html5 react-native weex wechat-applet) 的股票图表库",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-07-11T13:16:55Z",
-            "owner": "seerline",
-            "repo": "clchart",
-            "stars": 334
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nat",
-          "description": "轻松为你构建的 Weex 应用加入原生功能",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2018-03-17T08:28:55Z",
-            "owner": "natjs",
-            "repo": "nat",
-            "stars": 280
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WeexiOSKit",
-          "description": "扩展了许多iOS上的Component和Module",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2020-05-06T02:03:38Z",
-            "owner": "coderyi",
-            "repo": "hello-weex",
-            "stars": 190
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "weex-amui",
-          "description": "Weex版本的Ant Design Mobile",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vue",
-            "last_commit": "2023-09-28T03:25:50Z",
-            "owner": "hminghe",
-            "repo": "weex-amui",
-            "stars": 125
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "weex-amap",
-          "description": "高德地图weex插件",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2019-04-01T06:52:24Z",
-            "owner": "weex-plugins",
-            "repo": "Amap-for-Apache-Weex",
-            "stars": 92
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WeexPlus",
-          "description": "提供weex调用android native方法的一套扩展通信交互库，包含页面导航、数据存储、图片选择、二维码识别、权限等。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-12-08T04:39:20Z",
-            "owner": "goldze",
-            "repo": "WeexPlus",
-            "stars": 76
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "weex-flymeui",
-          "description": "A Flyme Style UI library based on Weex for Creator.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2018-11-26T05:04:08Z",
-            "owner": "FlymeApps",
-            "repo": "weex-flymeui",
-            "stars": 69
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "weex-vue-router",
-          "description": "router for weex as you can use some feature of vue-router",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2018-09-22T01:23:59Z",
-            "owner": "dongnaebi",
-            "repo": "weex-vue-router",
-            "stars": 68
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "weex-x",
-          "description": "Flux-inspired-Architecture-Vuex-inspired-Architecture for Weex.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2018-02-07T12:59:27Z",
-            "owner": "Jinjiang",
-            "repo": "weex-x",
-            "stars": 56
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "weex-tabbar",
-          "description": "weex custom tabbar Component , Support children component.(weex自定义tabbar组件)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2016-11-19T02:48:56Z",
-            "owner": "obetame",
-            "repo": "weex-tabbar",
-            "stars": 39
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "weex-rx-framework",
-          "description": "Rx framework for weex",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": null,
-            "last_commit": "2017-01-20T08:41:38Z",
-            "owner": "weexteam",
-            "repo": "Rax-Framework-for-Apache-Weex",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "weex-uikit",
-          "description": "一个weex的UI组件库",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "weex-droplet-ui",
-          "description": "水滴UI一个轻量级weex UI组件库，包含表单元素，tabbar，picker城市三级联动选择，actionsheet，switch等一系列常用组件",
-          "children": []
-        }
-      ],
-      "title": "库"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "awesome-javascript-cn",
-          "description": "JavaScript 资源大全中文版，内容包括：包管理器、加载器、测试框架、运行器、QA、MVC框架和库、模板引擎等",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2022-04-13T09:32:03Z",
-            "owner": "jobbole",
-            "repo": "awesome-javascript-cn",
-            "stars": 7806
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Front-End-Develop-Guide",
-          "description": "Awsome The Front End Develop Guide：这份指南汇集了前端开发所使用语言的主流学习资源，并以开发者的视角进行整理编排而成。",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2026-02-08T09:07:35Z",
-            "owner": "icepy",
-            "repo": "Front-End-Develop-Guide",
-            "stars": 2914
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-css-cn",
-          "description": "CSS 资源大全中文版，内容包括：CSS预处理器、框架、CSS结构、代码风格指南、命名习惯等等",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2020-06-28T07:13:07Z",
-            "owner": "jobbole",
-            "repo": "awesome-css-cn",
-            "stars": 1688
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-javascript",
-          "description": "A learning guide for JavaScript programmers. http://wwsun.github.io 中文",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2019-05-04T07:46:47Z",
-            "owner": "wwsun",
-            "repo": "awesome-javascript",
-            "stars": 763
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-fe-team",
-          "description": "Awesome Front-end Teams",
-          "children": []
-        }
-      ],
-      "title": "前端基础"
-    },
-    {
-      "description": "文章版权采用CC Attribution-NonCommercial 中文：署名-非商业性使用协议.\ncopyright (c) 2016 coderyi.all rights reserved.",
-      "items": [],
-      "title": "License"
+      "title": "项目"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T14:44:13.117Z",
+    "last_updated": "2026-08-19T12:57:34.813Z",
     "original_repository": "joggerplus/awesome-weex",
+    "original_repository_id": 71709238,
     "original_repository_sha": "cf70e002a47e700e4eb171a4ba8b6ade23b0be6e",
     "enhanced_repository": "enhansome/enhansome-weex",
     "enhanced_repository_description": null,
