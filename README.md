@@ -256,7 +256,7 @@
 
 #### 前端基础
 
-* [awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn) ⭐ 7,805 | 🐛 2 | 📅 2022-04-13
+* [awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn) ⭐ 7,804 | 🐛 2 | 📅 2022-04-13
   JavaScript 资源大全中文版，内容包括：包管理器、加载器、测试框架、运行器、QA、MVC框架和库、模板引擎等
 
 * [Front-End-Develop-Guide](https://github.com/icepy/Front-End-Develop-Guide) ⚠️ Archived
