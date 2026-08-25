@@ -776,7 +776,7 @@
                 "last_commit": "2021-07-11T13:16:55Z",
                 "owner": "seerline",
                 "repo": "clchart",
-                "stars": 334
+                "stars": 333
               }
             },
             {
@@ -1006,7 +1006,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:53:06.345Z",
+    "last_updated": "2026-08-25T06:04:58.600Z",
     "original_repository": "joggerplus/awesome-weex",
     "original_repository_id": 71709238,
     "original_repository_sha": "cf70e002a47e700e4eb171a4ba8b6ade23b0be6e",
