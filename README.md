@@ -146,7 +146,7 @@
 
 * [eros](https://github.com/bmfe/eros) ⭐ 1,989 | 🐛 84 | 🌐 Vue | 📅 2019-03-03 [![GitHub stars](https://img.shields.io/github/stars/bmfe/eros.svg)]() 一套 Vue 代码，两端原生应用 ，或许可以叫我 weex-native。
 
-* [vue-syntax-highlight](https://github.com/vuejs/vue-syntax-highlight) ⭐ 1,477 | 🐛 28 | 📅 2023-10-30 [![GitHub stars](https://img.shields.io/github/stars/vuejs/vue-syntax-highlight.svg)]()
+* [vue-syntax-highlight](https://github.com/vuejs/vue-syntax-highlight) ⭐ 1,478 | 🐛 28 | 📅 2023-10-30 [![GitHub stars](https://img.shields.io/github/stars/vuejs/vue-syntax-highlight.svg)]()
   Sublime Text syntax highlighting for single-file Vue components
 
 * [vim-vue](https://github.com/posva/vim-vue) ⭐ 1,278 | 🐛 31 | 🌐 Vim Script | 📅 2024-03-30 [![GitHub stars](https://img.shields.io/github/stars/posva/vim-vue.svg)]()
@@ -284,4 +284,4 @@ copyright (c) 2016 coderyi.all rights reserved.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._

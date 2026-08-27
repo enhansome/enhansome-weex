@@ -244,7 +244,7 @@
             "last_commit": "2023-10-30T07:25:41Z",
             "owner": "vuejs",
             "repo": "vue-syntax-highlight",
-            "stars": 1477
+            "stars": 1478
           }
         },
         {
@@ -1006,9 +1006,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T14:54:29.362Z",
-    "original_repository": "joggerplus/awesome-weex",
-    "original_repository_id": 71709238,
+    "last_updated": "2026-08-27T12:10:45.950Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 71709238,
+      "language": null,
+      "last_commit": "2022-05-30T14:36:01Z",
+      "owner": "joggerplus",
+      "repo": "awesome-weex",
+      "stars": 1547
+    },
     "original_repository_sha": "cf70e002a47e700e4eb171a4ba8b6ade23b0be6e",
     "enhanced_repository": "enhansome/enhansome-weex",
     "enhanced_repository_description": null,
