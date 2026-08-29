@@ -63,7 +63,7 @@
                 "open_issues": 179,
                 "owner": "weexteam",
                 "repo": "article",
-                "stars": 1209,
+                "stars": 1210,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:17.782Z"
@@ -204,7 +204,7 @@
             "open_issues": 179,
             "owner": "weexteam",
             "repo": "article",
-            "stars": 1209,
+            "stars": 1210,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:17.782Z"
@@ -225,7 +225,7 @@
             "open_issues": 179,
             "owner": "weexteam",
             "repo": "article",
-            "stars": 1209,
+            "stars": 1210,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:17.782Z"
@@ -246,7 +246,7 @@
             "open_issues": 179,
             "owner": "weexteam",
             "repo": "article",
-            "stars": 1209,
+            "stars": 1210,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:17.782Z"
@@ -267,7 +267,7 @@
             "open_issues": 179,
             "owner": "weexteam",
             "repo": "article",
-            "stars": 1209,
+            "stars": 1210,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:17.782Z"
@@ -1046,7 +1046,7 @@
                 "open_issues": 277,
                 "owner": "didi",
                 "repo": "chameleon",
-                "stars": 8952,
+                "stars": 8953,
                 "topics": [
                   "android",
                   "chameleon",
@@ -1584,7 +1584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:30:11.357Z",
+    "last_updated": "2026-08-29T17:40:01.761Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Weex guides, articles, sites, tools, projects and resources. ",
