@@ -1046,7 +1046,7 @@
                 "open_issues": 277,
                 "owner": "didi",
                 "repo": "chameleon",
-                "stars": 8953,
+                "stars": 8952,
                 "topics": [
                   "android",
                   "chameleon",
@@ -1584,7 +1584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T18:02:18.051Z",
+    "last_updated": "2026-08-31T19:57:32.424Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Weex guides, articles, sites, tools, projects and resources. ",
