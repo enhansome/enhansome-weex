@@ -18,10 +18,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2016-03-19T01:29:34Z",
-                "open_issues": 58,
+                "open_issues": 59,
                 "owner": "amfe",
                 "repo": "article",
-                "stars": 7526,
+                "stars": 7525,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:17.782Z"
@@ -39,10 +39,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2016-03-19T01:29:34Z",
-                "open_issues": 58,
+                "open_issues": 59,
                 "owner": "amfe",
                 "repo": "article",
-                "stars": 7526,
+                "stars": 7525,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:17.782Z"
@@ -63,7 +63,7 @@
                 "open_issues": 179,
                 "owner": "weexteam",
                 "repo": "article",
-                "stars": 1210,
+                "stars": 1209,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:17.782Z"
@@ -204,7 +204,7 @@
             "open_issues": 179,
             "owner": "weexteam",
             "repo": "article",
-            "stars": 1210,
+            "stars": 1209,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:17.782Z"
@@ -225,7 +225,7 @@
             "open_issues": 179,
             "owner": "weexteam",
             "repo": "article",
-            "stars": 1210,
+            "stars": 1209,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:17.782Z"
@@ -246,7 +246,7 @@
             "open_issues": 179,
             "owner": "weexteam",
             "repo": "article",
-            "stars": 1210,
+            "stars": 1209,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:17.782Z"
@@ -267,7 +267,7 @@
             "open_issues": 179,
             "owner": "weexteam",
             "repo": "article",
-            "stars": 1210,
+            "stars": 1209,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:17.782Z"
@@ -556,7 +556,7 @@
                 "open_issues": 2,
                 "owner": "weexteam",
                 "repo": "hackernews-App-powered-by-Apache-Weex",
-                "stars": 1141,
+                "stars": 1140,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:17.782Z"
@@ -577,7 +577,7 @@
                 "open_issues": 12,
                 "owner": "dodola",
                 "repo": "WeexOne",
-                "stars": 965,
+                "stars": 964,
                 "topics": [
                   "weex"
                 ]
@@ -904,7 +904,7 @@
                 "language": "JavaScript",
                 "license": null,
                 "last_commit": "2021-04-26T13:04:55Z",
-                "open_issues": 2,
+                "open_issues": 1,
                 "owner": "zwwill",
                 "repo": "JustDo8-weex-game",
                 "stars": 27,
@@ -1046,7 +1046,7 @@
                 "open_issues": 277,
                 "owner": "didi",
                 "repo": "chameleon",
-                "stars": 8952,
+                "stars": 8951,
                 "topics": [
                   "android",
                   "chameleon",
@@ -1076,7 +1076,7 @@
                 "open_issues": 303,
                 "owner": "antvis",
                 "repo": "F2",
-                "stars": 7993,
+                "stars": 7992,
                 "topics": [
                   "antv",
                   "charts",
@@ -1107,7 +1107,7 @@
                 "open_issues": 1,
                 "owner": "apache",
                 "repo": "incubator-weex-ui",
-                "stars": 4719,
+                "stars": 4718,
                 "topics": [
                   "mobile",
                   "ui-components",
@@ -1455,7 +1455,7 @@
                 "open_issues": 0,
                 "owner": "obetame",
                 "repo": "weex-tabbar",
-                "stars": 39,
+                "stars": 38,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:17.782Z"
@@ -1504,7 +1504,7 @@
                 "open_issues": 2,
                 "owner": "jobbole",
                 "repo": "awesome-javascript-cn",
-                "stars": 7805,
+                "stars": 7804,
                 "topics": [
                   "javascript"
                 ]
@@ -1569,7 +1569,7 @@
                 "open_issues": 2,
                 "owner": "wwsun",
                 "repo": "awesome-javascript",
-                "stars": 763,
+                "stars": 762,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:17.782Z"
@@ -1584,7 +1584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T19:57:32.424Z",
+    "last_updated": "2026-09-01T17:47:07.357Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Weex guides, articles, sites, tools, projects and resources. ",
@@ -1596,7 +1596,7 @@
       "open_issues": 0,
       "owner": "joggerplus",
       "repo": "awesome-weex",
-      "stars": 1547,
+      "stars": 1546,
       "topics": [
         "awesome",
         "awesome-list",

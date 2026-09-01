@@ -21,9 +21,9 @@
 
 #### 通用教程
 
-* [阿里无线前端博客](https://github.com/amfe/article/issues) ⭐ 7,526 | 🐛 58 | 📅 2016-03-19
+* [阿里无线前端博客](https://github.com/amfe/article/issues) ⭐ 7,525 | 🐛 59 | 📅 2016-03-19
 
-* [对无线电商动态化方案的思考（一 - 三）](https://github.com/amfe/article/issues/13) ⭐ 7,526 | 🐛 58 | 📅 2016-03-19
+* [对无线电商动态化方案的思考（一 - 三）](https://github.com/amfe/article/issues/13) ⭐ 7,525 | 🐛 59 | 📅 2016-03-19
 
 * [weex团队博客 - weex文档译文](https://github.com/weexteam/article/issues) ⚠️ Archived
 
@@ -200,7 +200,7 @@
 
 * [weex-job](https://github.com/herozhou/weex-job) ⭐ 43 | 🐛 0 | 🌐 JavaScript | 📅 2018-03-09 [![GitHub stars](https://img.shields.io/github/stars/herozhou/weex-job.svg)]() weex+node爬虫开发的内推职位app
 
-* [just-do-8](https://github.com/zwwill/just-do-8) ⭐ 27 | 🐛 2 | 🌐 JavaScript | 📅 2021-04-26 [![GitHub stars](https://img.shields.io/github/stars/zwwill/just-do-8.svg)]() 使用 Weex 开发的益智类小游戏
+* [just-do-8](https://github.com/zwwill/just-do-8) ⭐ 27 | 🐛 1 | 🌐 JavaScript | 📅 2021-04-26 [![GitHub stars](https://img.shields.io/github/stars/zwwill/just-do-8.svg)]() 使用 Weex 开发的益智类小游戏
 
 * [monkey-weex](https://github.com/coderyi/monkey-weex) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2020-11-11 [![GitHub stars](https://img.shields.io/github/stars/coderyi/monkey-weex.svg)]() Monkey是一个GitHub Weex客户端，展示GitHub用户和仓库的排名
 
@@ -216,7 +216,7 @@
 
 * [didi/chameleon](https://github.com/didi/chameleon) ⚠️ Archived [![GitHub stars](https://img.shields.io/github/stars/didi/chameleon.svg)]() 一套代码运行多端，一端所见即多端所见。支持web、微信小程序、weex、百度小程序、支付宝小程序
 
-* [F2](https://github.com/antvis/f2) ⭐ 7,993 | 🐛 303 | 🌐 JavaScript | 📅 2026-05-19 [![GitHub stars](https://img.shields.io/github/stars/antvis/f2.svg)]() 一个专注于移动，开箱即用的可视化解决方案，完美支持 H5 环境同时兼容多种环境（node, 小程序，weex）。
+* [F2](https://github.com/antvis/f2) ⭐ 7,992 | 🐛 303 | 🌐 JavaScript | 📅 2026-05-19 [![GitHub stars](https://img.shields.io/github/stars/antvis/f2.svg)]() 一个专注于移动，开箱即用的可视化解决方案，完美支持 H5 环境同时兼容多种环境（node, 小程序，weex）。
 
 * [weex-ui](https://github.com/alibaba/weex-ui) ⚠️ Archived [![GitHub stars](https://img.shields.io/github/stars/alibaba/weex-ui.svg)]() Weex Ui 是一套 Alibaba 完全基于 Weex 特性封装的组件库，包含大部分 Weex 业务中所需基础功能组件和相关解决方案。
 
@@ -244,7 +244,7 @@
 
 * [weex-x](https://github.com/Jinjiang/weex-x) ⚠️ Archived [![GitHub stars](https://img.shields.io/github/stars/Jinjiang/weex-x.svg)]() Flux-inspired-Architecture-Vuex-inspired-Architecture for Weex.
 
-* [weex-tabbar](https://github.com/zhouyuexie/weex-tabbar) ⭐ 39 | 🐛 0 | 🌐 JavaScript | 📅 2016-11-19 [![GitHub stars](https://img.shields.io/github/stars/zhouyuexie/weex-tabbar.svg)]()   weex custom tabbar Component , Support children component.(weex自定义tabbar组件)
+* [weex-tabbar](https://github.com/zhouyuexie/weex-tabbar) ⭐ 38 | 🐛 0 | 🌐 JavaScript | 📅 2016-11-19 [![GitHub stars](https://img.shields.io/github/stars/zhouyuexie/weex-tabbar.svg)]()   weex custom tabbar Component , Support children component.(weex自定义tabbar组件)
 
 * [weex-rx-framework](https://github.com/weexteam/weex-rx-framework) ⚠️ Archived [![GitHub stars](https://img.shields.io/github/stars/weexteam/weex-rx-framework.svg)]() Rx framework for weex
 
@@ -256,7 +256,7 @@
 
 #### 前端基础
 
-* [awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn) ⭐ 7,805 | 🐛 2 | 📅 2022-04-13
+* [awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn) ⭐ 7,804 | 🐛 2 | 📅 2022-04-13
   JavaScript 资源大全中文版，内容包括：包管理器、加载器、测试框架、运行器、QA、MVC框架和库、模板引擎等
 
 * [Front-End-Develop-Guide](https://github.com/icepy/Front-End-Develop-Guide) ⚠️ Archived
@@ -265,7 +265,7 @@
 * [awesome-css-cn](https://github.com/jobbole/awesome-css-cn) ⭐ 1,688 | 🐛 0 | 📅 2020-06-28
   CSS 资源大全中文版，内容包括：CSS预处理器、框架、CSS结构、代码风格指南、命名习惯等等
 
-* [awesome-javascript](https://github.com/wwsun/awesome-javascript) ⭐ 763 | 🐛 2 | 📅 2019-05-04
+* [awesome-javascript](https://github.com/wwsun/awesome-javascript) ⭐ 762 | 🐛 2 | 📅 2019-05-04
   A learning guide for JavaScript programmers. <http://wwsun.github.io>
   中文
 
@@ -284,4 +284,4 @@ copyright (c) 2016 coderyi.all rights reserved.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
