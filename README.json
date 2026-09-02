@@ -904,7 +904,7 @@
                 "language": "JavaScript",
                 "license": null,
                 "last_commit": "2021-04-26T13:04:55Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "zwwill",
                 "repo": "JustDo8-weex-game",
                 "stars": 27,
@@ -989,7 +989,7 @@
                 "id": 78620601,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-08-30T17:51:11Z",
+                "last_commit": "2026-09-01T21:53:25Z",
                 "open_issues": 16,
                 "owner": "Hanks10100",
                 "repo": "weex-vue-examples",
@@ -1107,7 +1107,7 @@
                 "open_issues": 1,
                 "owner": "apache",
                 "repo": "incubator-weex-ui",
-                "stars": 4718,
+                "stars": 4717,
                 "topics": [
                   "mobile",
                   "ui-components",
@@ -1504,7 +1504,7 @@
                 "open_issues": 2,
                 "owner": "jobbole",
                 "repo": "awesome-javascript-cn",
-                "stars": 7804,
+                "stars": 7803,
                 "topics": [
                   "javascript"
                 ]
@@ -1548,7 +1548,7 @@
                 "open_issues": 0,
                 "owner": "jobbole",
                 "repo": "awesome-css-cn",
-                "stars": 1688,
+                "stars": 1687,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:17.782Z"
@@ -1584,7 +1584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T17:47:07.357Z",
+    "last_updated": "2026-09-02T17:50:25.452Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Weex guides, articles, sites, tools, projects and resources. ",
