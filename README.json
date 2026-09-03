@@ -1076,7 +1076,7 @@
                 "open_issues": 303,
                 "owner": "antvis",
                 "repo": "F2",
-                "stars": 7992,
+                "stars": 7993,
                 "topics": [
                   "antv",
                   "charts",
@@ -1584,7 +1584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T17:50:25.452Z",
+    "last_updated": "2026-09-03T17:48:08.397Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Weex guides, articles, sites, tools, projects and resources. ",
