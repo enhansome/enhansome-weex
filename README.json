@@ -989,7 +989,7 @@
                 "id": 78620601,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-09-01T21:53:25Z",
+                "last_commit": "2026-09-04T15:02:28Z",
                 "open_issues": 16,
                 "owner": "Hanks10100",
                 "repo": "weex-vue-examples",
@@ -1076,7 +1076,7 @@
                 "open_issues": 303,
                 "owner": "antvis",
                 "repo": "F2",
-                "stars": 7993,
+                "stars": 7992,
                 "topics": [
                   "antv",
                   "charts",
@@ -1584,7 +1584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T17:48:08.397Z",
+    "last_updated": "2026-09-04T17:33:26.777Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Weex guides, articles, sites, tools, projects and resources. ",
