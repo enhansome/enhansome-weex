@@ -216,7 +216,7 @@
 
 * [didi/chameleon](https://github.com/didi/chameleon) ⚠️ Archived [![GitHub stars](https://img.shields.io/github/stars/didi/chameleon.svg)]() 一套代码运行多端，一端所见即多端所见。支持web、微信小程序、weex、百度小程序、支付宝小程序
 
-* [F2](https://github.com/antvis/f2) ⭐ 7,992 | 🐛 303 | 🌐 JavaScript | 📅 2026-05-19 [![GitHub stars](https://img.shields.io/github/stars/antvis/f2.svg)]() 一个专注于移动，开箱即用的可视化解决方案，完美支持 H5 环境同时兼容多种环境（node, 小程序，weex）。
+* [F2](https://github.com/antvis/f2) ⭐ 7,993 | 🐛 303 | 🌐 JavaScript | 📅 2026-05-19 [![GitHub stars](https://img.shields.io/github/stars/antvis/f2.svg)]() 一个专注于移动，开箱即用的可视化解决方案，完美支持 H5 环境同时兼容多种环境（node, 小程序，weex）。
 
 * [weex-ui](https://github.com/alibaba/weex-ui) ⚠️ Archived [![GitHub stars](https://img.shields.io/github/stars/alibaba/weex-ui.svg)]() Weex Ui 是一套 Alibaba 完全基于 Weex 特性封装的组件库，包含大部分 Weex 业务中所需基础功能组件和相关解决方案。
 
@@ -284,4 +284,4 @@ copyright (c) 2016 coderyi.all rights reserved.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
