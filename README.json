@@ -627,8 +627,8 @@
                 "id": 127766639,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-07T06:46:03Z",
-                "open_issues": 18,
+                "last_commit": "2026-09-11T00:23:49Z",
+                "open_issues": 19,
                 "owner": "CarGuo",
                 "repo": "GSYGithubAppWeex",
                 "stars": 748,
@@ -989,7 +989,7 @@
                 "id": 78620601,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-09-04T15:02:28Z",
+                "last_commit": "2026-09-10T23:53:20Z",
                 "open_issues": 16,
                 "owner": "Hanks10100",
                 "repo": "weex-vue-examples",
@@ -1046,7 +1046,7 @@
                 "open_issues": 277,
                 "owner": "didi",
                 "repo": "chameleon",
-                "stars": 8950,
+                "stars": 8949,
                 "topics": [
                   "android",
                   "chameleon",
@@ -1076,7 +1076,7 @@
                 "open_issues": 303,
                 "owner": "antvis",
                 "repo": "F2",
-                "stars": 7991,
+                "stars": 7992,
                 "topics": [
                   "antv",
                   "charts",
@@ -1504,7 +1504,7 @@
                 "open_issues": 2,
                 "owner": "jobbole",
                 "repo": "awesome-javascript-cn",
-                "stars": 7800,
+                "stars": 7801,
                 "topics": [
                   "javascript"
                 ]
@@ -1584,7 +1584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T17:38:46.211Z",
+    "last_updated": "2026-09-11T17:42:45.079Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Weex guides, articles, sites, tools, projects and resources. ",
