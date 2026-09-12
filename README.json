@@ -315,7 +315,7 @@
             "open_issues": 84,
             "owner": "bmfe",
             "repo": "eros",
-            "stars": 1989,
+            "stars": 1988,
             "topics": [
               "android",
               "app",
@@ -533,7 +533,7 @@
                 "open_issues": 16,
                 "owner": "zwwill",
                 "repo": "yanxuan-weex-demo",
-                "stars": 3009,
+                "stars": 3008,
                 "topics": [
                   "weex"
                 ]
@@ -989,11 +989,11 @@
                 "id": 78620601,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-09-10T23:53:20Z",
+                "last_commit": "2026-09-12T16:23:57Z",
                 "open_issues": 16,
                 "owner": "Hanks10100",
                 "repo": "weex-vue-examples",
-                "stars": 212,
+                "stars": 211,
                 "topics": [
                   "example",
                   "vue",
@@ -1046,7 +1046,7 @@
                 "open_issues": 277,
                 "owner": "didi",
                 "repo": "chameleon",
-                "stars": 8949,
+                "stars": 8948,
                 "topics": [
                   "android",
                   "chameleon",
@@ -1107,7 +1107,7 @@
                 "open_issues": 1,
                 "owner": "apache",
                 "repo": "incubator-weex-ui",
-                "stars": 4715,
+                "stars": 4714,
                 "topics": [
                   "mobile",
                   "ui-components",
@@ -1133,7 +1133,7 @@
                 "open_issues": 26,
                 "owner": "alibaba",
                 "repo": "bindingx",
-                "stars": 1270,
+                "stars": 1269,
                 "topics": [
                   "android",
                   "design",
@@ -1162,7 +1162,7 @@
                 "open_issues": 26,
                 "owner": "alibaba",
                 "repo": "bindingx",
-                "stars": 1270,
+                "stars": 1269,
                 "topics": [
                   "android",
                   "design",
@@ -1584,7 +1584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T17:42:45.079Z",
+    "last_updated": "2026-09-12T16:58:14.449Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Weex guides, articles, sites, tools, projects and resources. ",
@@ -1596,7 +1596,7 @@
       "open_issues": 0,
       "owner": "joggerplus",
       "repo": "awesome-weex",
-      "stars": 1546,
+      "stars": 1545,
       "topics": [
         "awesome",
         "awesome-list",
