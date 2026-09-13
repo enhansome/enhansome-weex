@@ -627,8 +627,8 @@
                 "id": 127766639,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-11T00:23:49Z",
-                "open_issues": 19,
+                "last_commit": "2026-09-13T10:36:20Z",
+                "open_issues": 20,
                 "owner": "CarGuo",
                 "repo": "GSYGithubAppWeex",
                 "stars": 748,
@@ -1584,7 +1584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T16:58:14.449Z",
+    "last_updated": "2026-09-13T17:22:42.218Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Weex guides, articles, sites, tools, projects and resources. ",
