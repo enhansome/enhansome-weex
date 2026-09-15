@@ -168,7 +168,7 @@
 
 #### App
 
-* [yanxuan-weex-demo](https://github.com/zwwill/yanxuan-weex-demo) ⭐ 3,008 | 🐛 16 | 🌐 Java | 📅 2021-04-26 [![GitHub stars](https://img.shields.io/github/stars/zwwill/yanxuan-weex-demo.svg)]() 高仿网易严选App
+* [yanxuan-weex-demo](https://github.com/zwwill/yanxuan-weex-demo) ⭐ 3,007 | 🐛 16 | 🌐 Java | 📅 2021-04-26 [![GitHub stars](https://img.shields.io/github/stars/zwwill/yanxuan-weex-demo.svg)]() 高仿网易严选App
 
 * [weex-hackernews](https://github.com/weexteam/weex-hackernews) ⚠️ Archived [![GitHub stars](https://img.shields.io/github/stars/weexteam/weex-hackernews.svg)]() 首个使用 Weex 和 Vue 开发的 Hacker News 原生应用。
 
@@ -176,7 +176,7 @@
 
 * [mpvue-weex](https://github.com/zhongku/mpvue-weex) ⭐ 862 | 🐛 0 | 🌐 Vue | 📅 2019-12-20 [![GitHub stars](https://img.shields.io/github/stars/zhongku/mpvue-weex.svg)]() 一套 Vue 代码，五端可用(H5、小程序、PC、苹果App、安卓App）
 
-* [GSYGithubAppWeex](https://github.com/CarGuo/GSYGithubAppWeex) ⭐ 748 | 🐛 20 | 🌐 JavaScript | 📅 2026-09-13 [![GitHub stars](https://img.shields.io/github/stars/CarGuo/GSYGithubAppWeex.svg)]() 拥有Flutter、Weex、ReactNative三个版本。
+* [GSYGithubAppWeex](https://github.com/CarGuo/GSYGithubAppWeex) ⭐ 748 | 🐛 12 | 🌐 JavaScript | 📅 2026-09-15 [![GitHub stars](https://img.shields.io/github/stars/CarGuo/GSYGithubAppWeex.svg)]() 拥有Flutter、Weex、ReactNative三个版本。
 
 * [github client weex](https://github.com/coderyi/hello-weex) ⭐ 190 | 🐛 2 | 🌐 Java | 📅 2020-05-06 [![GitHub stars](https://img.shields.io/github/stars/coderyi/hello-weex.svg)]() 用Weex写的GitHub的第三方客户端
 
@@ -284,4 +284,4 @@ copyright (c) 2016 coderyi.all rights reserved.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
