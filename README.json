@@ -315,7 +315,7 @@
             "open_issues": 84,
             "owner": "bmfe",
             "repo": "eros",
-            "stars": 1988,
+            "stars": 1989,
             "topics": [
               "android",
               "app",
@@ -1046,7 +1046,7 @@
                 "open_issues": 277,
                 "owner": "didi",
                 "repo": "chameleon",
-                "stars": 8945,
+                "stars": 8946,
                 "topics": [
                   "android",
                   "chameleon",
@@ -1076,7 +1076,7 @@
                 "open_issues": 303,
                 "owner": "antvis",
                 "repo": "F2",
-                "stars": 7995,
+                "stars": 7997,
                 "topics": [
                   "antv",
                   "charts",
@@ -1107,7 +1107,7 @@
                 "open_issues": 1,
                 "owner": "apache",
                 "repo": "incubator-weex-ui",
-                "stars": 4712,
+                "stars": 4711,
                 "topics": [
                   "mobile",
                   "ui-components",
@@ -1504,7 +1504,7 @@
                 "open_issues": 2,
                 "owner": "jobbole",
                 "repo": "awesome-javascript-cn",
-                "stars": 7801,
+                "stars": 7800,
                 "topics": [
                   "javascript"
                 ]
@@ -1584,7 +1584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T18:07:59.474Z",
+    "last_updated": "2026-09-17T18:08:34.546Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Weex guides, articles, sites, tools, projects and resources. ",
