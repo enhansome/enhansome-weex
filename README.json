@@ -315,7 +315,7 @@
             "open_issues": 84,
             "owner": "bmfe",
             "repo": "eros",
-            "stars": 1987,
+            "stars": 1988,
             "topics": [
               "android",
               "app",
@@ -577,7 +577,7 @@
                 "open_issues": 12,
                 "owner": "dodola",
                 "repo": "WeexOne",
-                "stars": 964,
+                "stars": 963,
                 "topics": [
                   "weex"
                 ]
@@ -1046,7 +1046,7 @@
                 "open_issues": 277,
                 "owner": "didi",
                 "repo": "chameleon",
-                "stars": 8942,
+                "stars": 8941,
                 "topics": [
                   "android",
                   "chameleon",
@@ -1133,7 +1133,7 @@
                 "open_issues": 26,
                 "owner": "alibaba",
                 "repo": "bindingx",
-                "stars": 1268,
+                "stars": 1267,
                 "topics": [
                   "android",
                   "design",
@@ -1162,7 +1162,7 @@
                 "open_issues": 26,
                 "owner": "alibaba",
                 "repo": "bindingx",
-                "stars": 1268,
+                "stars": 1267,
                 "topics": [
                   "android",
                   "design",
@@ -1584,7 +1584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T19:18:20.511Z",
+    "last_updated": "2026-09-22T18:02:32.888Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Weex guides, articles, sites, tools, projects and resources. ",
