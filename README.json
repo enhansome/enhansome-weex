@@ -1501,10 +1501,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2022-04-13T09:32:03Z",
-                "open_issues": 2,
+                "open_issues": 1,
                 "owner": "jobbole",
                 "repo": "awesome-javascript-cn",
-                "stars": 7801,
+                "stars": 7802,
                 "topics": [
                   "javascript"
                 ]
@@ -1548,7 +1548,7 @@
                 "open_issues": 0,
                 "owner": "jobbole",
                 "repo": "awesome-css-cn",
-                "stars": 1687,
+                "stars": 1688,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:17.782Z"
@@ -1584,7 +1584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T18:23:15.097Z",
+    "last_updated": "2026-09-25T18:29:07.433Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Weex guides, articles, sites, tools, projects and resources. ",
