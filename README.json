@@ -1504,7 +1504,7 @@
                 "open_issues": 1,
                 "owner": "jobbole",
                 "repo": "awesome-javascript-cn",
-                "stars": 7802,
+                "stars": 7801,
                 "topics": [
                   "javascript"
                 ]
@@ -1584,7 +1584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T18:29:07.433Z",
+    "last_updated": "2026-09-26T17:43:04.848Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Weex guides, articles, sites, tools, projects and resources. ",
