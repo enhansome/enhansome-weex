@@ -168,7 +168,7 @@
 
 #### App
 
-* [yanxuan-weex-demo](https://github.com/zwwill/yanxuan-weex-demo) ⭐ 3,008 | 🐛 16 | 🌐 Java | 📅 2021-04-26 [![GitHub stars](https://img.shields.io/github/stars/zwwill/yanxuan-weex-demo.svg)]() 高仿网易严选App
+* [yanxuan-weex-demo](https://github.com/zwwill/yanxuan-weex-demo) ⭐ 3,007 | 🐛 16 | 🌐 Java | 📅 2021-04-26 [![GitHub stars](https://img.shields.io/github/stars/zwwill/yanxuan-weex-demo.svg)]() 高仿网易严选App
 
 * [weex-hackernews](https://github.com/weexteam/weex-hackernews) ⚠️ Archived [![GitHub stars](https://img.shields.io/github/stars/weexteam/weex-hackernews.svg)]() 首个使用 Weex 和 Vue 开发的 Hacker News 原生应用。
 
@@ -206,7 +206,7 @@
 
 #### demo
 
-* [weex-frame](https://github.com/walid1992/weex-frame) ⭐ 428 | 🐛 29 | 🌐 JavaScript | 📅 2019-11-05 [![GitHub stars](https://img.shields.io/github/stars/walid1992/weex-frame.svg)]()  weex 基于vue2.0开发框架
+* [weex-frame](https://github.com/walid1992/weex-frame) ⭐ 427 | 🐛 29 | 🌐 JavaScript | 📅 2019-11-05 [![GitHub stars](https://img.shields.io/github/stars/walid1992/weex-frame.svg)]()  weex 基于vue2.0开发框架
 
 * [weex-vue-examples](https://github.com/Hanks10100/weex-vue-examples) ⭐ 211 | 🐛 16 | 🌐 JavaScript | 📅 2026-09-18 [![GitHub stars](https://img.shields.io/github/stars/Hanks10100/weex-vue-examples.svg)]()  Examples of using Weex and Vue.js
 
@@ -224,7 +224,7 @@
 
 * [alibaba  - BindingX](https://github.com/alibaba/bindingx) ⚠️ Archived [![GitHub stars](https://img.shields.io/github/stars/alibaba/bindingx.svg)]() 基于 weex / React Native 的富交互解决方案。
 
-* [weex-frame](https://github.com/osmartian/weex-frame) ⭐ 428 | 🐛 29 | 🌐 JavaScript | 📅 2019-11-05 [![GitHub stars](https://img.shields.io/github/stars/osmartian/weex-frame.svg)]() weex 基于vue2.0开发框架库，包括三端集成、组件库提供、weex api封装等等
+* [weex-frame](https://github.com/osmartian/weex-frame) ⭐ 427 | 🐛 29 | 🌐 JavaScript | 📅 2019-11-05 [![GitHub stars](https://img.shields.io/github/stars/osmartian/weex-frame.svg)]() weex 基于vue2.0开发框架库，包括三端集成、组件库提供、weex api封装等等
 
 * [clchart](https://github.com/seerline/clchart) ⭐ 335 | 🐛 19 | 🌐 JavaScript | 📅 2021-07-11 [![GitHub stars](https://img.shields.io/github/stars/seerline/clchart.svg)]() 跨平台(html5 react-native weex wechat-applet) 的股票图表库
 
@@ -284,4 +284,4 @@ copyright (c) 2016 coderyi.all rights reserved.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._

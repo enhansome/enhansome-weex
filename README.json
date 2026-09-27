@@ -63,7 +63,7 @@
                 "open_issues": 179,
                 "owner": "weexteam",
                 "repo": "article",
-                "stars": 1210,
+                "stars": 1209,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:17.782Z"
@@ -204,7 +204,7 @@
             "open_issues": 179,
             "owner": "weexteam",
             "repo": "article",
-            "stars": 1210,
+            "stars": 1209,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:17.782Z"
@@ -225,7 +225,7 @@
             "open_issues": 179,
             "owner": "weexteam",
             "repo": "article",
-            "stars": 1210,
+            "stars": 1209,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:17.782Z"
@@ -246,7 +246,7 @@
             "open_issues": 179,
             "owner": "weexteam",
             "repo": "article",
-            "stars": 1210,
+            "stars": 1209,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:17.782Z"
@@ -267,7 +267,7 @@
             "open_issues": 179,
             "owner": "weexteam",
             "repo": "article",
-            "stars": 1210,
+            "stars": 1209,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:17.782Z"
@@ -533,7 +533,7 @@
                 "open_issues": 16,
                 "owner": "zwwill",
                 "repo": "yanxuan-weex-demo",
-                "stars": 3008,
+                "stars": 3007,
                 "topics": [
                   "weex"
                 ]
@@ -970,7 +970,7 @@
                 "open_issues": 29,
                 "owner": "walid1992",
                 "repo": "weex-frame",
-                "stars": 428,
+                "stars": 427,
                 "topics": [
                   "weex"
                 ]
@@ -1191,7 +1191,7 @@
                 "open_issues": 29,
                 "owner": "walid1992",
                 "repo": "weex-frame",
-                "stars": 428,
+                "stars": 427,
                 "topics": [
                   "weex"
                 ]
@@ -1584,7 +1584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T17:43:04.848Z",
+    "last_updated": "2026-09-27T18:16:39.001Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Weex guides, articles, sites, tools, projects and resources. ",
@@ -1596,7 +1596,7 @@
       "open_issues": 0,
       "owner": "joggerplus",
       "repo": "awesome-weex",
-      "stars": 1546,
+      "stars": 1545,
       "topics": [
         "awesome",
         "awesome-list",
