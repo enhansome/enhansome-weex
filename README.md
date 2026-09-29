@@ -262,7 +262,7 @@
 * [Front-End-Develop-Guide](https://github.com/icepy/Front-End-Develop-Guide) ⚠️ Archived
   Awsome The Front End Develop Guide：这份指南汇集了前端开发所使用语言的主流学习资源，并以开发者的视角进行整理编排而成。
 
-* [awesome-css-cn](https://github.com/jobbole/awesome-css-cn) ⭐ 1,688 | 🐛 0 | 📅 2020-06-28
+* [awesome-css-cn](https://github.com/jobbole/awesome-css-cn) ⭐ 1,689 | 🐛 0 | 📅 2020-06-28
   CSS 资源大全中文版，内容包括：CSS预处理器、框架、CSS结构、代码风格指南、命名习惯等等
 
 * [awesome-javascript](https://github.com/wwsun/awesome-javascript) ⭐ 761 | 🐛 2 | 📅 2019-05-04
@@ -284,4 +284,4 @@ copyright (c) 2016 coderyi.all rights reserved.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
