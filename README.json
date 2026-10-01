@@ -315,7 +315,7 @@
             "open_issues": 84,
             "owner": "bmfe",
             "repo": "eros",
-            "stars": 1987,
+            "stars": 1986,
             "topics": [
               "android",
               "app",
@@ -1584,7 +1584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T19:06:29.760Z",
+    "last_updated": "2026-10-01T19:26:42.070Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Weex guides, articles, sites, tools, projects and resources. ",
