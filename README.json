@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "阿里无线前端博客",
-              "description": null,
+              "description": "amfe/article",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -29,7 +29,7 @@
             {
               "node_type": "item",
               "title": "对无线电商动态化方案的思考（一 - 三）",
-              "description": null,
+              "description": "amfe/article",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -50,7 +50,7 @@
             {
               "node_type": "item",
               "title": "weex团队博客 - weex文档译文",
-              "description": null,
+              "description": "weexteam/article",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -71,7 +71,7 @@
             {
               "node_type": "item",
               "title": "weex 学习/实践指南",
-              "description": null,
+              "description": "vczero/weex-learning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -92,7 +92,7 @@
             {
               "node_type": "item",
               "title": "Weex源码分析系列文章",
-              "description": null,
+              "description": "liuzhao2007/Weex-Analysis-Project",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -117,7 +117,7 @@
             {
               "node_type": "item",
               "title": "h5weex相关文章",
-              "description": null,
+              "description": "h5weex/h5weex-books",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -159,7 +159,7 @@
             {
               "node_type": "item",
               "title": "weex note - sunqichao",
-              "description": null,
+              "description": "sunqichao/sqcweex.github.com",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -191,7 +191,7 @@
         {
           "node_type": "item",
           "title": "weex中使用数据流工具Vuex实践",
-          "description": null,
+          "description": "weexteam/article",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -212,7 +212,7 @@
         {
           "node_type": "item",
           "title": "浅析weex之vdom渲染",
-          "description": null,
+          "description": "weexteam/article",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -233,7 +233,7 @@
         {
           "node_type": "item",
           "title": "Weex调试神器——Weex Devtools使用手册",
-          "description": null,
+          "description": "weexteam/article",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -254,7 +254,7 @@
         {
           "node_type": "item",
           "title": "Weex meets Vue，记一次 Weex 前端团队的讨论",
-          "description": null,
+          "description": "weexteam/article",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -275,7 +275,7 @@
         {
           "node_type": "item",
           "title": "【适配】记一次 Weex 的 iPhone X 适配",
-          "description": null,
+          "description": "zwwill/blog",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -410,7 +410,7 @@
         {
           "node_type": "item",
           "title": "weex-vue-starter-kit",
-          "description": null,
+          "description": "ElemeFE/weex-vue-starter-kit",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -691,7 +691,7 @@
             {
               "node_type": "item",
               "title": "weex-todo-list",
-              "description": null,
+              "description": "tralves/weex-todo-list",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1584,7 +1584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:10:01.377Z",
+    "last_updated": "2026-10-03T05:15:36.920Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Weex guides, articles, sites, tools, projects and resources. ",
