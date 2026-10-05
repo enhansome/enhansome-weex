@@ -367,7 +367,7 @@
             "open_issues": 31,
             "owner": "posva",
             "repo": "vim-vue",
-            "stars": 1278,
+            "stars": 1277,
             "topics": [
               "vim",
               "vue"
@@ -1504,7 +1504,7 @@
                 "open_issues": 1,
                 "owner": "jobbole",
                 "repo": "awesome-javascript-cn",
-                "stars": 7801,
+                "stars": 7802,
                 "topics": [
                   "javascript"
                 ]
@@ -1548,7 +1548,7 @@
                 "open_issues": 0,
                 "owner": "jobbole",
                 "repo": "awesome-css-cn",
-                "stars": 1689,
+                "stars": 1691,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:17.782Z"
@@ -1584,7 +1584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T18:05:23.151Z",
+    "last_updated": "2026-10-05T21:29:06.846Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Weex guides, articles, sites, tools, projects and resources. ",
