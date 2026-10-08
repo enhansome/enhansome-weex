@@ -315,7 +315,7 @@
             "open_issues": 84,
             "owner": "bmfe",
             "repo": "eros",
-            "stars": 1986,
+            "stars": 1987,
             "topics": [
               "android",
               "app",
@@ -1076,7 +1076,7 @@
                 "open_issues": 302,
                 "owner": "antvis",
                 "repo": "F2",
-                "stars": 7995,
+                "stars": 7996,
                 "topics": [
                   "antv",
                   "charts",
@@ -1133,7 +1133,7 @@
                 "open_issues": 26,
                 "owner": "alibaba",
                 "repo": "bindingx",
-                "stars": 1269,
+                "stars": 1270,
                 "topics": [
                   "android",
                   "design",
@@ -1162,7 +1162,7 @@
                 "open_issues": 26,
                 "owner": "alibaba",
                 "repo": "bindingx",
-                "stars": 1269,
+                "stars": 1270,
                 "topics": [
                   "android",
                   "design",
@@ -1504,7 +1504,7 @@
                 "open_issues": 1,
                 "owner": "jobbole",
                 "repo": "awesome-javascript-cn",
-                "stars": 7802,
+                "stars": 7801,
                 "topics": [
                   "javascript"
                 ]
@@ -1584,7 +1584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T19:53:06.916Z",
+    "last_updated": "2026-10-08T19:49:42.295Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Weex guides, articles, sites, tools, projects and resources. ",
