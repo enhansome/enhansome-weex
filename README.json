@@ -63,7 +63,7 @@
                 "open_issues": 179,
                 "owner": "weexteam",
                 "repo": "article",
-                "stars": 1210,
+                "stars": 1209,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:17.782Z"
@@ -204,7 +204,7 @@
             "open_issues": 179,
             "owner": "weexteam",
             "repo": "article",
-            "stars": 1210,
+            "stars": 1209,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:17.782Z"
@@ -225,7 +225,7 @@
             "open_issues": 179,
             "owner": "weexteam",
             "repo": "article",
-            "stars": 1210,
+            "stars": 1209,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:17.782Z"
@@ -246,7 +246,7 @@
             "open_issues": 179,
             "owner": "weexteam",
             "repo": "article",
-            "stars": 1210,
+            "stars": 1209,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:17.782Z"
@@ -267,7 +267,7 @@
             "open_issues": 179,
             "owner": "weexteam",
             "repo": "article",
-            "stars": 1210,
+            "stars": 1209,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:17.782Z"
@@ -315,7 +315,7 @@
             "open_issues": 84,
             "owner": "bmfe",
             "repo": "eros",
-            "stars": 1987,
+            "stars": 1985,
             "topics": [
               "android",
               "app",
@@ -556,7 +556,7 @@
                 "open_issues": 2,
                 "owner": "weexteam",
                 "repo": "hackernews-App-powered-by-Apache-Weex",
-                "stars": 1140,
+                "stars": 1138,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:17.782Z"
@@ -577,7 +577,7 @@
                 "open_issues": 12,
                 "owner": "dodola",
                 "repo": "WeexOne",
-                "stars": 963,
+                "stars": 962,
                 "topics": [
                   "weex"
                 ]
@@ -631,7 +631,7 @@
                 "open_issues": 13,
                 "owner": "CarGuo",
                 "repo": "GSYGithubAppWeex",
-                "stars": 748,
+                "stars": 747,
                 "topics": [
                   "weex"
                 ]
@@ -1046,7 +1046,7 @@
                 "open_issues": 277,
                 "owner": "didi",
                 "repo": "chameleon",
-                "stars": 8942,
+                "stars": 8941,
                 "topics": [
                   "android",
                   "chameleon",
@@ -1073,10 +1073,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-05-19T10:57:41Z",
-                "open_issues": 302,
+                "open_issues": 301,
                 "owner": "antvis",
                 "repo": "F2",
-                "stars": 7996,
+                "stars": 7997,
                 "topics": [
                   "antv",
                   "charts",
@@ -1133,7 +1133,7 @@
                 "open_issues": 26,
                 "owner": "alibaba",
                 "repo": "bindingx",
-                "stars": 1270,
+                "stars": 1269,
                 "topics": [
                   "android",
                   "design",
@@ -1162,7 +1162,7 @@
                 "open_issues": 26,
                 "owner": "alibaba",
                 "repo": "bindingx",
-                "stars": 1270,
+                "stars": 1269,
                 "topics": [
                   "android",
                   "design",
@@ -1504,7 +1504,7 @@
                 "open_issues": 1,
                 "owner": "jobbole",
                 "repo": "awesome-javascript-cn",
-                "stars": 7801,
+                "stars": 7802,
                 "topics": [
                   "javascript"
                 ]
@@ -1584,7 +1584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T19:49:42.295Z",
+    "last_updated": "2026-10-09T19:26:57.574Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Weex guides, articles, sites, tools, projects and resources. ",
@@ -1596,7 +1596,7 @@
       "open_issues": 0,
       "owner": "joggerplus",
       "repo": "awesome-weex",
-      "stars": 1544,
+      "stars": 1543,
       "topics": [
         "awesome",
         "awesome-list",
