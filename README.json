@@ -600,7 +600,7 @@
                 "open_issues": 0,
                 "owner": "alaboshu",
                 "repo": "alaweb",
-                "stars": 862,
+                "stars": 861,
                 "topics": [
                   "mpvue",
                   "vue-native",
@@ -1046,7 +1046,7 @@
                 "open_issues": 277,
                 "owner": "didi",
                 "repo": "chameleon",
-                "stars": 8941,
+                "stars": 8940,
                 "topics": [
                   "android",
                   "chameleon",
@@ -1076,7 +1076,7 @@
                 "open_issues": 301,
                 "owner": "antvis",
                 "repo": "F2",
-                "stars": 7997,
+                "stars": 7996,
                 "topics": [
                   "antv",
                   "charts",
@@ -1569,7 +1569,7 @@
                 "open_issues": 2,
                 "owner": "wwsun",
                 "repo": "awesome-javascript",
-                "stars": 761,
+                "stars": 760,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:17.782Z"
@@ -1584,7 +1584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T19:26:57.574Z",
+    "last_updated": "2026-10-10T18:27:28.822Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Weex guides, articles, sites, tools, projects and resources. ",
