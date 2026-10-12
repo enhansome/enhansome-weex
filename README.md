@@ -216,7 +216,7 @@
 
 * [didi/chameleon](https://github.com/didi/chameleon) ⚠️ Archived [![GitHub stars](https://img.shields.io/github/stars/didi/chameleon.svg)]() 一套代码运行多端，一端所见即多端所见。支持web、微信小程序、weex、百度小程序、支付宝小程序
 
-* [F2](https://github.com/antvis/f2) ⭐ 7,996 | 🐛 301 | 🌐 JavaScript | 📅 2026-05-19 [![GitHub stars](https://img.shields.io/github/stars/antvis/f2.svg)]() 一个专注于移动，开箱即用的可视化解决方案，完美支持 H5 环境同时兼容多种环境（node, 小程序，weex）。
+* [F2](https://github.com/antvis/f2) ⭐ 7,995 | 🐛 301 | 🌐 JavaScript | 📅 2026-05-19 [![GitHub stars](https://img.shields.io/github/stars/antvis/f2.svg)]() 一个专注于移动，开箱即用的可视化解决方案，完美支持 H5 环境同时兼容多种环境（node, 小程序，weex）。
 
 * [weex-ui](https://github.com/alibaba/weex-ui) ⚠️ Archived [![GitHub stars](https://img.shields.io/github/stars/alibaba/weex-ui.svg)]() Weex Ui 是一套 Alibaba 完全基于 Weex 特性封装的组件库，包含大部分 Weex 业务中所需基础功能组件和相关解决方案。
 
@@ -262,7 +262,7 @@
 * [Front-End-Develop-Guide](https://github.com/icepy/Front-End-Develop-Guide) ⚠️ Archived
   Awsome The Front End Develop Guide：这份指南汇集了前端开发所使用语言的主流学习资源，并以开发者的视角进行整理编排而成。
 
-* [awesome-css-cn](https://github.com/jobbole/awesome-css-cn) ⭐ 1,691 | 🐛 0 | 📅 2020-06-28
+* [awesome-css-cn](https://github.com/jobbole/awesome-css-cn) ⭐ 1,692 | 🐛 0 | 📅 2020-06-28
   CSS 资源大全中文版，内容包括：CSS预处理器、框架、CSS结构、代码风格指南、命名习惯等等
 
 * [awesome-javascript](https://github.com/wwsun/awesome-javascript) ⭐ 760 | 🐛 2 | 📅 2019-05-04
@@ -284,4 +284,4 @@ copyright (c) 2016 coderyi.all rights reserved.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
