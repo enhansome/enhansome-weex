@@ -18,7 +18,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2016-03-19T01:29:34Z",
-                "open_issues": 60,
+                "open_issues": 61,
                 "owner": "amfe",
                 "repo": "article",
                 "stars": 7523,
@@ -39,7 +39,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2016-03-19T01:29:34Z",
-                "open_issues": 60,
+                "open_issues": 61,
                 "owner": "amfe",
                 "repo": "article",
                 "stars": 7523,
@@ -627,8 +627,8 @@
                 "id": 127766639,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-04T12:08:51Z",
-                "open_issues": 13,
+                "last_commit": "2026-10-13T12:53:18Z",
+                "open_issues": 14,
                 "owner": "CarGuo",
                 "repo": "GSYGithubAppWeex",
                 "stars": 747,
@@ -1046,7 +1046,7 @@
                 "open_issues": 277,
                 "owner": "didi",
                 "repo": "chameleon",
-                "stars": 8939,
+                "stars": 8940,
                 "topics": [
                   "android",
                   "chameleon",
@@ -1076,7 +1076,7 @@
                 "open_issues": 301,
                 "owner": "antvis",
                 "repo": "F2",
-                "stars": 7995,
+                "stars": 7996,
                 "topics": [
                   "antv",
                   "charts",
@@ -1107,7 +1107,7 @@
                 "open_issues": 1,
                 "owner": "apache",
                 "repo": "incubator-weex-ui",
-                "stars": 4710,
+                "stars": 4711,
                 "topics": [
                   "mobile",
                   "ui-components",
@@ -1504,7 +1504,7 @@
                 "open_issues": 1,
                 "owner": "jobbole",
                 "repo": "awesome-javascript-cn",
-                "stars": 7802,
+                "stars": 7801,
                 "topics": [
                   "javascript"
                 ]
@@ -1548,7 +1548,7 @@
                 "open_issues": 0,
                 "owner": "jobbole",
                 "repo": "awesome-css-cn",
-                "stars": 1692,
+                "stars": 1691,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:17.782Z"
@@ -1584,7 +1584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T22:04:14.239Z",
+    "last_updated": "2026-10-13T20:11:20.506Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Weex guides, articles, sites, tools, projects and resources. ",
