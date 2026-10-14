@@ -21,7 +21,7 @@
                 "open_issues": 61,
                 "owner": "amfe",
                 "repo": "article",
-                "stars": 7523,
+                "stars": 7522,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:17.782Z"
@@ -42,7 +42,7 @@
                 "open_issues": 61,
                 "owner": "amfe",
                 "repo": "article",
-                "stars": 7523,
+                "stars": 7522,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:17.782Z"
@@ -533,7 +533,7 @@
                 "open_issues": 16,
                 "owner": "zwwill",
                 "repo": "yanxuan-weex-demo",
-                "stars": 3007,
+                "stars": 3006,
                 "topics": [
                   "weex"
                 ]
@@ -1076,7 +1076,7 @@
                 "open_issues": 301,
                 "owner": "antvis",
                 "repo": "F2",
-                "stars": 7996,
+                "stars": 7995,
                 "topics": [
                   "antv",
                   "charts",
@@ -1504,7 +1504,7 @@
                 "open_issues": 1,
                 "owner": "jobbole",
                 "repo": "awesome-javascript-cn",
-                "stars": 7801,
+                "stars": 7800,
                 "topics": [
                   "javascript"
                 ]
@@ -1584,7 +1584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T20:11:20.506Z",
+    "last_updated": "2026-10-14T18:29:46.271Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Weex guides, articles, sites, tools, projects and resources. ",
