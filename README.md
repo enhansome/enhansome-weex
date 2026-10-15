@@ -21,13 +21,13 @@
 
 #### 通用教程
 
-* [阿里无线前端博客](https://github.com/amfe/article/issues) ⭐ 7,522 | 🐛 61 | 📅 2016-03-19
+* [阿里无线前端博客](https://github.com/amfe/article/issues) ⭐ 7,522 | 🐛 62 | 📅 2016-03-19
 
-* [对无线电商动态化方案的思考（一 - 三）](https://github.com/amfe/article/issues/13) ⭐ 7,522 | 🐛 61 | 📅 2016-03-19
+* [对无线电商动态化方案的思考（一 - 三）](https://github.com/amfe/article/issues/13) ⭐ 7,522 | 🐛 62 | 📅 2016-03-19
 
 * [weex团队博客 - weex文档译文](https://github.com/weexteam/article/issues) ⚠️ Archived
 
-* [weex 学习/实践指南](https://github.com/vczero/weex-learning) ⭐ 264 | 🐛 4 | 🌐 JavaScript | 📅 2016-09-09
+* [weex 学习/实践指南](https://github.com/vczero/weex-learning) ⭐ 263 | 🐛 4 | 🌐 JavaScript | 📅 2016-09-09
 
 * [Weex源码分析系列文章](https://github.com/liuzhao2007/Weex-Analysis-Project) ⭐ 115 | 🐛 0 | 📅 2018-01-19
 
@@ -72,7 +72,7 @@
 
 * [Weex meets Vue，记一次 Weex 前端团队的讨论](https://github.com/weexteam/article/issues/77) ⚠️ Archived
 
-* [【适配】记一次 Weex 的 iPhone X 适配 ](https://github.com/zwwill/blog/issues/15) ⭐ 465 | 🐛 27 | 📅 2021-05-21
+* [【适配】记一次 Weex 的 iPhone X 适配 ](https://github.com/zwwill/blog/issues/15) ⭐ 464 | 🐛 27 | 📅 2021-05-21
 
 * [五年陈的 Weex，聊聊它的过去现在和未来](https://zhuanlan.zhihu.com/p/373582962)
 
@@ -174,13 +174,13 @@
 
 * [WeexOne](https://github.com/dodola/WeexOne) ⚠️ Archived [![GitHub stars](https://img.shields.io/github/stars/dodola/WeexOne.svg)]() Weex \[one 一个]客户端
 
-* [mpvue-weex](https://github.com/zhongku/mpvue-weex) ⭐ 861 | 🐛 0 | 🌐 Vue | 📅 2019-12-20 [![GitHub stars](https://img.shields.io/github/stars/zhongku/mpvue-weex.svg)]() 一套 Vue 代码，五端可用(H5、小程序、PC、苹果App、安卓App）
+* [mpvue-weex](https://github.com/zhongku/mpvue-weex) ⭐ 860 | 🐛 0 | 🌐 Vue | 📅 2019-12-20 [![GitHub stars](https://img.shields.io/github/stars/zhongku/mpvue-weex.svg)]() 一套 Vue 代码，五端可用(H5、小程序、PC、苹果App、安卓App）
 
 * [GSYGithubAppWeex](https://github.com/CarGuo/GSYGithubAppWeex) ⭐ 747 | 🐛 14 | 🌐 JavaScript | 📅 2026-10-13 [![GitHub stars](https://img.shields.io/github/stars/CarGuo/GSYGithubAppWeex.svg)]() 拥有Flutter、Weex、ReactNative三个版本。
 
 * [github client weex](https://github.com/coderyi/hello-weex) ⭐ 190 | 🐛 2 | 🌐 Java | 📅 2020-05-06 [![GitHub stars](https://img.shields.io/github/stars/coderyi/hello-weex.svg)]() 用Weex写的GitHub的第三方客户端
 
-* [weex-xianyu](https://github.com/herozhou/weex-xianyu) ⭐ 190 | 🐛 3 | 🌐 Objective-C | 📅 2017-09-28 [![GitHub stars](https://img.shields.io/github/stars/herozhou/weex-xianyu.svg)]()  xianyu app based on weex(仿咸鱼app)
+* [weex-xianyu](https://github.com/herozhou/weex-xianyu) ⭐ 189 | 🐛 3 | 🌐 Objective-C | 📅 2017-09-28 [![GitHub stars](https://img.shields.io/github/stars/herozhou/weex-xianyu.svg)]()  xianyu app based on weex(仿咸鱼app)
 
 * [weex-todo-list](https://github.com/tralves/weex-todo-list) ⭐ 153 | 🐛 4 | 🌐 Java | 📅 2017-03-24 [![GitHub stars](https://img.shields.io/github/stars/tralves/weex-todo-list.svg)]()
 
@@ -206,9 +206,9 @@
 
 #### demo
 
-* [weex-frame](https://github.com/walid1992/weex-frame) ⭐ 427 | 🐛 29 | 🌐 JavaScript | 📅 2019-11-05 [![GitHub stars](https://img.shields.io/github/stars/walid1992/weex-frame.svg)]()  weex 基于vue2.0开发框架
+* [weex-frame](https://github.com/walid1992/weex-frame) ⭐ 426 | 🐛 29 | 🌐 JavaScript | 📅 2019-11-05 [![GitHub stars](https://img.shields.io/github/stars/walid1992/weex-frame.svg)]()  weex 基于vue2.0开发框架
 
-* [weex-vue-examples](https://github.com/Hanks10100/weex-vue-examples) ⭐ 211 | 🐛 16 | 🌐 JavaScript | 📅 2026-09-18 [![GitHub stars](https://img.shields.io/github/stars/Hanks10100/weex-vue-examples.svg)]()  Examples of using Weex and Vue.js
+* [weex-vue-examples](https://github.com/Hanks10100/weex-vue-examples) ⭐ 212 | 🐛 16 | 🌐 JavaScript | 📅 2026-09-18 [![GitHub stars](https://img.shields.io/github/stars/Hanks10100/weex-vue-examples.svg)]()  Examples of using Weex and Vue.js
 
 * [weex-demo-dusan](https://github.com/duqian291902259/weex-demo-dusan) ⭐ 180 | 🐛 5 | 🌐 JavaScript | 📅 2024-10-01 [![GitHub stars](https://img.shields.io/github/stars/duqian291902259/weex-demo-dusan.svg)]() A demo which is based on weex ,it contains splash,guide ,login,and home page. on upgrading...
 
@@ -216,7 +216,7 @@
 
 * [didi/chameleon](https://github.com/didi/chameleon) ⚠️ Archived [![GitHub stars](https://img.shields.io/github/stars/didi/chameleon.svg)]() 一套代码运行多端，一端所见即多端所见。支持web、微信小程序、weex、百度小程序、支付宝小程序
 
-* [F2](https://github.com/antvis/f2) ⭐ 7,995 | 🐛 301 | 🌐 JavaScript | 📅 2026-05-19 [![GitHub stars](https://img.shields.io/github/stars/antvis/f2.svg)]() 一个专注于移动，开箱即用的可视化解决方案，完美支持 H5 环境同时兼容多种环境（node, 小程序，weex）。
+* [F2](https://github.com/antvis/f2) ⭐ 7,994 | 🐛 301 | 🌐 JavaScript | 📅 2026-05-19 [![GitHub stars](https://img.shields.io/github/stars/antvis/f2.svg)]() 一个专注于移动，开箱即用的可视化解决方案，完美支持 H5 环境同时兼容多种环境（node, 小程序，weex）。
 
 * [weex-ui](https://github.com/alibaba/weex-ui) ⚠️ Archived [![GitHub stars](https://img.shields.io/github/stars/alibaba/weex-ui.svg)]() Weex Ui 是一套 Alibaba 完全基于 Weex 特性封装的组件库，包含大部分 Weex 业务中所需基础功能组件和相关解决方案。
 
@@ -224,7 +224,7 @@
 
 * [alibaba  - BindingX](https://github.com/alibaba/bindingx) ⚠️ Archived [![GitHub stars](https://img.shields.io/github/stars/alibaba/bindingx.svg)]() 基于 weex / React Native 的富交互解决方案。
 
-* [weex-frame](https://github.com/osmartian/weex-frame) ⭐ 427 | 🐛 29 | 🌐 JavaScript | 📅 2019-11-05 [![GitHub stars](https://img.shields.io/github/stars/osmartian/weex-frame.svg)]() weex 基于vue2.0开发框架库，包括三端集成、组件库提供、weex api封装等等
+* [weex-frame](https://github.com/osmartian/weex-frame) ⭐ 426 | 🐛 29 | 🌐 JavaScript | 📅 2019-11-05 [![GitHub stars](https://img.shields.io/github/stars/osmartian/weex-frame.svg)]() weex 基于vue2.0开发框架库，包括三端集成、组件库提供、weex api封装等等
 
 * [clchart](https://github.com/seerline/clchart) ⭐ 335 | 🐛 19 | 🌐 JavaScript | 📅 2021-07-11 [![GitHub stars](https://img.shields.io/github/stars/seerline/clchart.svg)]() 跨平台(html5 react-native weex wechat-applet) 的股票图表库
 
@@ -236,7 +236,7 @@
 
 * [weex-amap](https://github.com/weex-plugins/weex-amap) ⚠️ Archived [![GitHub stars](https://img.shields.io/github/stars/weex-plugins/weex-amap.svg)]() 高德地图weex插件
 
-* [WeexPlus](https://github.com/goldze/WeexPlus) ⭐ 76 | 🐛 6 | 🌐 JavaScript | 📅 2022-12-08  [![GitHub stars](https://img.shields.io/github/stars/goldze/WeexPlus.svg)]() 提供weex调用android native方法的一套扩展通信交互库，包含页面导航、数据存储、图片选择、二维码识别、权限等。
+* [WeexPlus](https://github.com/goldze/WeexPlus) ⭐ 75 | 🐛 6 | 🌐 JavaScript | 📅 2022-12-08  [![GitHub stars](https://img.shields.io/github/stars/goldze/WeexPlus.svg)]() 提供weex调用android native方法的一套扩展通信交互库，包含页面导航、数据存储、图片选择、二维码识别、权限等。
 
 * [weex-flymeui](https://github.com/FlymeApps/weex-flymeui) ⚠️ Archived [![GitHub stars](https://img.shields.io/github/stars/FlymeApps/weex-flymeui.svg)]() A Flyme Style UI library based on Weex for Creator.
 
@@ -256,7 +256,7 @@
 
 #### 前端基础
 
-* [awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn) ⭐ 7,800 | 🐛 1 | 📅 2022-04-13
+* [awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn) ⭐ 7,798 | 🐛 1 | 📅 2022-04-13
   JavaScript 资源大全中文版，内容包括：包管理器、加载器、测试框架、运行器、QA、MVC框架和库、模板引擎等
 
 * [Front-End-Develop-Guide](https://github.com/icepy/Front-End-Develop-Guide) ⚠️ Archived
@@ -284,4 +284,4 @@ copyright (c) 2016 coderyi.all rights reserved.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._

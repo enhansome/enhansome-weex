@@ -18,7 +18,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2016-03-19T01:29:34Z",
-                "open_issues": 61,
+                "open_issues": 62,
                 "owner": "amfe",
                 "repo": "article",
                 "stars": 7522,
@@ -39,7 +39,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2016-03-19T01:29:34Z",
-                "open_issues": 61,
+                "open_issues": 62,
                 "owner": "amfe",
                 "repo": "article",
                 "stars": 7522,
@@ -84,7 +84,7 @@
                 "open_issues": 4,
                 "owner": "vczero",
                 "repo": "weex-learning",
-                "stars": 264,
+                "stars": 263,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:17.782Z"
@@ -288,7 +288,7 @@
             "open_issues": 27,
             "owner": "zwwill",
             "repo": "blog",
-            "stars": 465,
+            "stars": 464,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:17.782Z"
@@ -600,7 +600,7 @@
                 "open_issues": 0,
                 "owner": "alaboshu",
                 "repo": "alaweb",
-                "stars": 861,
+                "stars": 860,
                 "topics": [
                   "mpvue",
                   "vue-native",
@@ -683,7 +683,7 @@
                 "open_issues": 3,
                 "owner": "herozhou",
                 "repo": "weex-xianyu",
-                "stars": 190,
+                "stars": 189,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:17.782Z"
@@ -970,7 +970,7 @@
                 "open_issues": 29,
                 "owner": "walid1992",
                 "repo": "weex-frame",
-                "stars": 427,
+                "stars": 426,
                 "topics": [
                   "weex"
                 ]
@@ -993,7 +993,7 @@
                 "open_issues": 16,
                 "owner": "Hanks10100",
                 "repo": "weex-vue-examples",
-                "stars": 211,
+                "stars": 212,
                 "topics": [
                   "example",
                   "vue",
@@ -1046,7 +1046,7 @@
                 "open_issues": 277,
                 "owner": "didi",
                 "repo": "chameleon",
-                "stars": 8940,
+                "stars": 8941,
                 "topics": [
                   "android",
                   "chameleon",
@@ -1076,7 +1076,7 @@
                 "open_issues": 301,
                 "owner": "antvis",
                 "repo": "F2",
-                "stars": 7995,
+                "stars": 7994,
                 "topics": [
                   "antv",
                   "charts",
@@ -1191,7 +1191,7 @@
                 "open_issues": 29,
                 "owner": "walid1992",
                 "repo": "weex-frame",
-                "stars": 427,
+                "stars": 426,
                 "topics": [
                   "weex"
                 ]
@@ -1354,7 +1354,7 @@
                 "open_issues": 6,
                 "owner": "goldze",
                 "repo": "WeexPlus",
-                "stars": 76,
+                "stars": 75,
                 "topics": [
                   "android",
                   "hybrid",
@@ -1504,7 +1504,7 @@
                 "open_issues": 1,
                 "owner": "jobbole",
                 "repo": "awesome-javascript-cn",
-                "stars": 7800,
+                "stars": 7798,
                 "topics": [
                   "javascript"
                 ]
@@ -1584,7 +1584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T18:29:46.271Z",
+    "last_updated": "2026-10-15T18:11:53.802Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Weex guides, articles, sites, tools, projects and resources. ",
