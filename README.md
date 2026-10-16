@@ -146,10 +146,10 @@
 
 * [eros](https://github.com/bmfe/eros) ⭐ 1,985 | 🐛 84 | 🌐 Vue | 📅 2019-03-03 [![GitHub stars](https://img.shields.io/github/stars/bmfe/eros.svg)]() 一套 Vue 代码，两端原生应用 ，或许可以叫我 weex-native。
 
-* [vue-syntax-highlight](https://github.com/vuejs/vue-syntax-highlight) ⭐ 1,476 | 🐛 28 | 📅 2023-10-30 [![GitHub stars](https://img.shields.io/github/stars/vuejs/vue-syntax-highlight.svg)]()
+* [vue-syntax-highlight](https://github.com/vuejs/vue-syntax-highlight) ⭐ 1,477 | 🐛 28 | 📅 2023-10-30 [![GitHub stars](https://img.shields.io/github/stars/vuejs/vue-syntax-highlight.svg)]()
   Sublime Text syntax highlighting for single-file Vue components
 
-* [vim-vue](https://github.com/posva/vim-vue) ⭐ 1,277 | 🐛 31 | 🌐 Vim Script | 📅 2024-03-30 [![GitHub stars](https://img.shields.io/github/stars/posva/vim-vue.svg)]()
+* [vim-vue](https://github.com/posva/vim-vue) ⭐ 1,276 | 🐛 31 | 🌐 Vim Script | 📅 2024-03-30 [![GitHub stars](https://img.shields.io/github/stars/posva/vim-vue.svg)]()
   Syntax Highligth for Vue.js components
 
 * [Thera](https://github.com/alibaba/Thera) ⭐ 304 | 🐛 20 | 🌐 CoffeeScript | 📅 2017-08-09 [![GitHub stars](https://img.shields.io/github/stars/alibaba/Thera.svg)]() IDE,支持weex, luaview, react native
@@ -208,7 +208,7 @@
 
 * [weex-frame](https://github.com/walid1992/weex-frame) ⭐ 426 | 🐛 29 | 🌐 JavaScript | 📅 2019-11-05 [![GitHub stars](https://img.shields.io/github/stars/walid1992/weex-frame.svg)]()  weex 基于vue2.0开发框架
 
-* [weex-vue-examples](https://github.com/Hanks10100/weex-vue-examples) ⭐ 212 | 🐛 16 | 🌐 JavaScript | 📅 2026-09-18 [![GitHub stars](https://img.shields.io/github/stars/Hanks10100/weex-vue-examples.svg)]()  Examples of using Weex and Vue.js
+* [weex-vue-examples](https://github.com/Hanks10100/weex-vue-examples) ⭐ 212 | 🐛 16 | 🌐 JavaScript | 📅 2026-10-16 [![GitHub stars](https://img.shields.io/github/stars/Hanks10100/weex-vue-examples.svg)]()  Examples of using Weex and Vue.js
 
 * [weex-demo-dusan](https://github.com/duqian291902259/weex-demo-dusan) ⭐ 180 | 🐛 5 | 🌐 JavaScript | 📅 2024-10-01 [![GitHub stars](https://img.shields.io/github/stars/duqian291902259/weex-demo-dusan.svg)]() A demo which is based on weex ,it contains splash,guide ,login,and home page. on upgrading...
 
@@ -256,7 +256,7 @@
 
 #### 前端基础
 
-* [awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn) ⭐ 7,798 | 🐛 1 | 📅 2022-04-13
+* [awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn) ⭐ 7,797 | 🐛 1 | 📅 2022-04-13
   JavaScript 资源大全中文版，内容包括：包管理器、加载器、测试框架、运行器、QA、MVC框架和库、模板引擎等
 
 * [Front-End-Develop-Guide](https://github.com/icepy/Front-End-Develop-Guide) ⚠️ Archived
@@ -284,4 +284,4 @@ copyright (c) 2016 coderyi.all rights reserved.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._

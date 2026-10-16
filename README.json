@@ -346,7 +346,7 @@
             "open_issues": 28,
             "owner": "vuejs",
             "repo": "vue-syntax-highlight",
-            "stars": 1476,
+            "stars": 1477,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:17.782Z"
@@ -367,7 +367,7 @@
             "open_issues": 31,
             "owner": "posva",
             "repo": "vim-vue",
-            "stars": 1277,
+            "stars": 1276,
             "topics": [
               "vim",
               "vue"
@@ -989,7 +989,7 @@
                 "id": 78620601,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-09-18T21:24:21Z",
+                "last_commit": "2026-10-16T01:12:08Z",
                 "open_issues": 16,
                 "owner": "Hanks10100",
                 "repo": "weex-vue-examples",
@@ -1046,7 +1046,7 @@
                 "open_issues": 277,
                 "owner": "didi",
                 "repo": "chameleon",
-                "stars": 8941,
+                "stars": 8940,
                 "topics": [
                   "android",
                   "chameleon",
@@ -1504,7 +1504,7 @@
                 "open_issues": 1,
                 "owner": "jobbole",
                 "repo": "awesome-javascript-cn",
-                "stars": 7798,
+                "stars": 7797,
                 "topics": [
                   "javascript"
                 ]
@@ -1584,7 +1584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T18:11:53.802Z",
+    "last_updated": "2026-10-16T17:56:58.390Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Weex guides, articles, sites, tools, projects and resources. ",
