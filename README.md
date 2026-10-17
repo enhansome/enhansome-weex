@@ -21,9 +21,9 @@
 
 #### 通用教程
 
-* [阿里无线前端博客](https://github.com/amfe/article/issues) ⭐ 7,522 | 🐛 62 | 📅 2016-03-19
+* [阿里无线前端博客](https://github.com/amfe/article/issues) ⭐ 7,521 | 🐛 62 | 📅 2016-03-19
 
-* [对无线电商动态化方案的思考（一 - 三）](https://github.com/amfe/article/issues/13) ⭐ 7,522 | 🐛 62 | 📅 2016-03-19
+* [对无线电商动态化方案的思考（一 - 三）](https://github.com/amfe/article/issues/13) ⭐ 7,521 | 🐛 62 | 📅 2016-03-19
 
 * [weex团队博客 - weex文档译文](https://github.com/weexteam/article/issues) ⚠️ Archived
 
@@ -168,7 +168,7 @@
 
 #### App
 
-* [yanxuan-weex-demo](https://github.com/zwwill/yanxuan-weex-demo) ⭐ 3,006 | 🐛 16 | 🌐 Java | 📅 2021-04-26 [![GitHub stars](https://img.shields.io/github/stars/zwwill/yanxuan-weex-demo.svg)]() 高仿网易严选App
+* [yanxuan-weex-demo](https://github.com/zwwill/yanxuan-weex-demo) ⭐ 3,007 | 🐛 16 | 🌐 Java | 📅 2021-04-26 [![GitHub stars](https://img.shields.io/github/stars/zwwill/yanxuan-weex-demo.svg)]() 高仿网易严选App
 
 * [weex-hackernews](https://github.com/weexteam/weex-hackernews) ⚠️ Archived [![GitHub stars](https://img.shields.io/github/stars/weexteam/weex-hackernews.svg)]() 首个使用 Weex 和 Vue 开发的 Hacker News 原生应用。
 
@@ -284,4 +284,4 @@ copyright (c) 2016 coderyi.all rights reserved.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._

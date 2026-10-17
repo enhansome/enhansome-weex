@@ -21,7 +21,7 @@
                 "open_issues": 62,
                 "owner": "amfe",
                 "repo": "article",
-                "stars": 7522,
+                "stars": 7521,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:17.782Z"
@@ -42,7 +42,7 @@
                 "open_issues": 62,
                 "owner": "amfe",
                 "repo": "article",
-                "stars": 7522,
+                "stars": 7521,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:17.782Z"
@@ -533,7 +533,7 @@
                 "open_issues": 16,
                 "owner": "zwwill",
                 "repo": "yanxuan-weex-demo",
-                "stars": 3006,
+                "stars": 3007,
                 "topics": [
                   "weex"
                 ]
@@ -556,7 +556,7 @@
                 "open_issues": 2,
                 "owner": "weexteam",
                 "repo": "hackernews-App-powered-by-Apache-Weex",
-                "stars": 1138,
+                "stars": 1139,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:17.782Z"
@@ -1584,7 +1584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T17:56:58.390Z",
+    "last_updated": "2026-10-17T17:00:33.997Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Weex guides, articles, sites, tools, projects and resources. ",
