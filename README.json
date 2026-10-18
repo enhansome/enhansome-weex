@@ -627,8 +627,8 @@
                 "id": 127766639,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-13T12:53:18Z",
-                "open_issues": 14,
+                "last_commit": "2026-10-18T07:01:47Z",
+                "open_issues": 15,
                 "owner": "CarGuo",
                 "repo": "GSYGithubAppWeex",
                 "stars": 747,
@@ -1046,7 +1046,7 @@
                 "open_issues": 277,
                 "owner": "didi",
                 "repo": "chameleon",
-                "stars": 8940,
+                "stars": 8941,
                 "topics": [
                   "android",
                   "chameleon",
@@ -1584,7 +1584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T17:00:33.997Z",
+    "last_updated": "2026-10-18T17:15:17.066Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Weex guides, articles, sites, tools, projects and resources. ",

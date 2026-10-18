@@ -176,7 +176,7 @@
 
 * [mpvue-weex](https://github.com/zhongku/mpvue-weex) ⭐ 860 | 🐛 0 | 🌐 Vue | 📅 2019-12-20 [![GitHub stars](https://img.shields.io/github/stars/zhongku/mpvue-weex.svg)]() 一套 Vue 代码，五端可用(H5、小程序、PC、苹果App、安卓App）
 
-* [GSYGithubAppWeex](https://github.com/CarGuo/GSYGithubAppWeex) ⭐ 747 | 🐛 14 | 🌐 JavaScript | 📅 2026-10-13 [![GitHub stars](https://img.shields.io/github/stars/CarGuo/GSYGithubAppWeex.svg)]() 拥有Flutter、Weex、ReactNative三个版本。
+* [GSYGithubAppWeex](https://github.com/CarGuo/GSYGithubAppWeex) ⭐ 747 | 🐛 15 | 🌐 JavaScript | 📅 2026-10-18 [![GitHub stars](https://img.shields.io/github/stars/CarGuo/GSYGithubAppWeex.svg)]() 拥有Flutter、Weex、ReactNative三个版本。
 
 * [github client weex](https://github.com/coderyi/hello-weex) ⭐ 190 | 🐛 2 | 🌐 Java | 📅 2020-05-06 [![GitHub stars](https://img.shields.io/github/stars/coderyi/hello-weex.svg)]() 用Weex写的GitHub的第三方客户端
 
@@ -284,4 +284,4 @@ copyright (c) 2016 coderyi.all rights reserved.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
