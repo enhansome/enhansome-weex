@@ -18,7 +18,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2016-03-19T01:29:34Z",
-                "open_issues": 62,
+                "open_issues": 63,
                 "owner": "amfe",
                 "repo": "article",
                 "stars": 7521,
@@ -39,7 +39,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2016-03-19T01:29:34Z",
-                "open_issues": 62,
+                "open_issues": 63,
                 "owner": "amfe",
                 "repo": "article",
                 "stars": 7521,
@@ -1584,7 +1584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T17:15:17.066Z",
+    "last_updated": "2026-10-19T19:47:13.702Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Weex guides, articles, sites, tools, projects and resources. ",

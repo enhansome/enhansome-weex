@@ -21,9 +21,9 @@
 
 #### 通用教程
 
-* [阿里无线前端博客](https://github.com/amfe/article/issues) ⭐ 7,521 | 🐛 62 | 📅 2016-03-19
+* [阿里无线前端博客](https://github.com/amfe/article/issues) ⭐ 7,521 | 🐛 63 | 📅 2016-03-19
 
-* [对无线电商动态化方案的思考（一 - 三）](https://github.com/amfe/article/issues/13) ⭐ 7,521 | 🐛 62 | 📅 2016-03-19
+* [对无线电商动态化方案的思考（一 - 三）](https://github.com/amfe/article/issues/13) ⭐ 7,521 | 🐛 63 | 📅 2016-03-19
 
 * [weex团队博客 - weex文档译文](https://github.com/weexteam/article/issues) ⚠️ Archived
 
@@ -284,4 +284,4 @@ copyright (c) 2016 coderyi.all rights reserved.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
