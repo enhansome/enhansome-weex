@@ -315,7 +315,7 @@
             "open_issues": 84,
             "owner": "bmfe",
             "repo": "eros",
-            "stars": 1985,
+            "stars": 1984,
             "topics": [
               "android",
               "app",
@@ -627,8 +627,8 @@
                 "id": 127766639,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-18T07:01:47Z",
-                "open_issues": 15,
+                "last_commit": "2026-10-20T18:26:51Z",
+                "open_issues": 16,
                 "owner": "CarGuo",
                 "repo": "GSYGithubAppWeex",
                 "stars": 747,
@@ -1584,7 +1584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T18:25:26.643Z",
+    "last_updated": "2026-10-21T18:32:53.632Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Weex guides, articles, sites, tools, projects and resources. ",
