@@ -21,7 +21,7 @@
                 "open_issues": 63,
                 "owner": "amfe",
                 "repo": "article",
-                "stars": 7521,
+                "stars": 7520,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:17.782Z"
@@ -42,7 +42,7 @@
                 "open_issues": 63,
                 "owner": "amfe",
                 "repo": "article",
-                "stars": 7521,
+                "stars": 7520,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:17.782Z"
@@ -315,7 +315,7 @@
             "open_issues": 84,
             "owner": "bmfe",
             "repo": "eros",
-            "stars": 1984,
+            "stars": 1985,
             "topics": [
               "android",
               "app",
@@ -556,7 +556,7 @@
                 "open_issues": 2,
                 "owner": "weexteam",
                 "repo": "hackernews-App-powered-by-Apache-Weex",
-                "stars": 1140,
+                "stars": 1141,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:17.782Z"
@@ -577,7 +577,7 @@
                 "open_issues": 12,
                 "owner": "dodola",
                 "repo": "WeexOne",
-                "stars": 962,
+                "stars": 963,
                 "topics": [
                   "weex"
                 ]
@@ -1584,7 +1584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T18:14:37.408Z",
+    "last_updated": "2026-10-24T17:21:28.307Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Weex guides, articles, sites, tools, projects and resources. ",
@@ -1596,7 +1596,7 @@
       "open_issues": 0,
       "owner": "joggerplus",
       "repo": "awesome-weex",
-      "stars": 1543,
+      "stars": 1544,
       "topics": [
         "awesome",
         "awesome-list",
