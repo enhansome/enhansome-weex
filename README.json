@@ -63,7 +63,7 @@
                 "open_issues": 179,
                 "owner": "weexteam",
                 "repo": "article",
-                "stars": 1210,
+                "stars": 1209,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:17.782Z"
@@ -204,7 +204,7 @@
             "open_issues": 179,
             "owner": "weexteam",
             "repo": "article",
-            "stars": 1210,
+            "stars": 1209,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:17.782Z"
@@ -225,7 +225,7 @@
             "open_issues": 179,
             "owner": "weexteam",
             "repo": "article",
-            "stars": 1210,
+            "stars": 1209,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:17.782Z"
@@ -246,7 +246,7 @@
             "open_issues": 179,
             "owner": "weexteam",
             "repo": "article",
-            "stars": 1210,
+            "stars": 1209,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:17.782Z"
@@ -267,7 +267,7 @@
             "open_issues": 179,
             "owner": "weexteam",
             "repo": "article",
-            "stars": 1210,
+            "stars": 1209,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:17.782Z"
@@ -1046,7 +1046,7 @@
                 "open_issues": 277,
                 "owner": "didi",
                 "repo": "chameleon",
-                "stars": 8940,
+                "stars": 8939,
                 "topics": [
                   "android",
                   "chameleon",
@@ -1504,7 +1504,7 @@
                 "open_issues": 2,
                 "owner": "jobbole",
                 "repo": "awesome-javascript-cn",
-                "stars": 7798,
+                "stars": 7795,
                 "topics": [
                   "javascript"
                 ]
@@ -1548,7 +1548,7 @@
                 "open_issues": 0,
                 "owner": "jobbole",
                 "repo": "awesome-css-cn",
-                "stars": 1691,
+                "stars": 1690,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:17.782Z"
@@ -1584,7 +1584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T19:27:30.853Z",
+    "last_updated": "2026-10-29T19:31:36.379Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Weex guides, articles, sites, tools, projects and resources. ",
