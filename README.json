@@ -1046,7 +1046,7 @@
                 "open_issues": 277,
                 "owner": "didi",
                 "repo": "chameleon",
-                "stars": 8938,
+                "stars": 8937,
                 "topics": [
                   "android",
                   "chameleon",
@@ -1107,7 +1107,7 @@
                 "open_issues": 1,
                 "owner": "apache",
                 "repo": "incubator-weex-ui",
-                "stars": 4712,
+                "stars": 4713,
                 "topics": [
                   "mobile",
                   "ui-components",
@@ -1584,7 +1584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T19:10:22.206Z",
+    "last_updated": "2026-10-31T18:26:59.488Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Weex guides, articles, sites, tools, projects and resources. ",
