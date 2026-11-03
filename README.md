@@ -186,7 +186,7 @@
 
 * [amap-running-app](https://github.com/weex-plugins/amap-running-app) ⚠️ Archived [![GitHub stars](https://img.shields.io/github/stars/weex-plugins/amap-running-app.svg)]() 一款简易的跑步App
 
-* [weex-yy](https://github.com/vczero/weex-yy) ⭐ 109 | 🐛 4 | 🌐 JavaScript | 📅 2016-10-09 [![GitHub stars](https://img.shields.io/github/stars/vczero/weex-yy.svg)]() 微阅读
+* [weex-yy](https://github.com/vczero/weex-yy) ⭐ 110 | 🐛 4 | 🌐 JavaScript | 📅 2016-10-09 [![GitHub stars](https://img.shields.io/github/stars/vczero/weex-yy.svg)]() 微阅读
 
 * [WeexJandan](https://github.com/totzcc/WeexJandan) ⭐ 100 | 🐛 2 | 🌐 JavaScript | 📅 2018-04-10 [![GitHub stars](https://img.shields.io/github/stars/totzcc/WeexJandan.svg)]() Weex Vue写的解析HTML应用
 
@@ -284,4 +284,4 @@ copyright (c) 2016 coderyi.all rights reserved.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
