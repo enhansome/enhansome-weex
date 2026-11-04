@@ -21,7 +21,7 @@
                 "open_issues": 63,
                 "owner": "amfe",
                 "repo": "article",
-                "stars": 7520,
+                "stars": 7519,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:17.782Z"
@@ -42,7 +42,7 @@
                 "open_issues": 63,
                 "owner": "amfe",
                 "repo": "article",
-                "stars": 7520,
+                "stars": 7519,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:17.782Z"
@@ -63,7 +63,7 @@
                 "open_issues": 179,
                 "owner": "weexteam",
                 "repo": "article",
-                "stars": 1209,
+                "stars": 1208,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:17.782Z"
@@ -204,7 +204,7 @@
             "open_issues": 179,
             "owner": "weexteam",
             "repo": "article",
-            "stars": 1209,
+            "stars": 1208,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:17.782Z"
@@ -225,7 +225,7 @@
             "open_issues": 179,
             "owner": "weexteam",
             "repo": "article",
-            "stars": 1209,
+            "stars": 1208,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:17.782Z"
@@ -246,7 +246,7 @@
             "open_issues": 179,
             "owner": "weexteam",
             "repo": "article",
-            "stars": 1209,
+            "stars": 1208,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:17.782Z"
@@ -267,7 +267,7 @@
             "open_issues": 179,
             "owner": "weexteam",
             "repo": "article",
-            "stars": 1209,
+            "stars": 1208,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:17.782Z"
@@ -556,7 +556,7 @@
                 "open_issues": 2,
                 "owner": "weexteam",
                 "repo": "hackernews-App-powered-by-Apache-Weex",
-                "stars": 1142,
+                "stars": 1141,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:17.782Z"
@@ -627,8 +627,8 @@
                 "id": 127766639,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-23T01:18:52Z",
-                "open_issues": 17,
+                "last_commit": "2026-11-04T02:52:16Z",
+                "open_issues": 18,
                 "owner": "CarGuo",
                 "repo": "GSYGithubAppWeex",
                 "stars": 747,
@@ -1584,7 +1584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T20:28:13.778Z",
+    "last_updated": "2026-11-04T20:45:00.190Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Weex guides, articles, sites, tools, projects and resources. ",
