@@ -391,7 +391,7 @@
             "open_issues": 20,
             "owner": "alibaba",
             "repo": "Thera",
-            "stars": 304,
+            "stars": 303,
             "topics": [
               "android",
               "hybrid",
@@ -1584,7 +1584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T20:45:00.190Z",
+    "last_updated": "2026-11-05T21:00:10.447Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Weex guides, articles, sites, tools, projects and resources. ",
