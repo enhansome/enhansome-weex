@@ -631,7 +631,7 @@
                 "open_issues": 18,
                 "owner": "CarGuo",
                 "repo": "GSYGithubAppWeex",
-                "stars": 747,
+                "stars": 746,
                 "topics": [
                   "weex"
                 ]
@@ -1527,7 +1527,7 @@
                 "open_issues": 0,
                 "owner": "icepy",
                 "repo": "Front-End-Develop-Guide",
-                "stars": 2910,
+                "stars": 2909,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:17.782Z"
@@ -1584,7 +1584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T18:40:05.881Z",
+    "last_updated": "2026-11-08T18:46:21.062Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Weex guides, articles, sites, tools, projects and resources. ",
