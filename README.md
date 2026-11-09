@@ -144,7 +144,7 @@
 
 ### 工具
 
-* [eros](https://github.com/bmfe/eros) ⭐ 1,985 | 🐛 84 | 🌐 Vue | 📅 2019-03-03 [![GitHub stars](https://img.shields.io/github/stars/bmfe/eros.svg)]() 一套 Vue 代码，两端原生应用 ，或许可以叫我 weex-native。
+* [eros](https://github.com/bmfe/eros) ⭐ 1,984 | 🐛 84 | 🌐 Vue | 📅 2019-03-03 [![GitHub stars](https://img.shields.io/github/stars/bmfe/eros.svg)]() 一套 Vue 代码，两端原生应用 ，或许可以叫我 weex-native。
 
 * [vue-syntax-highlight](https://github.com/vuejs/vue-syntax-highlight) ⭐ 1,478 | 🐛 28 | 📅 2023-10-30 [![GitHub stars](https://img.shields.io/github/stars/vuejs/vue-syntax-highlight.svg)]()
   Sublime Text syntax highlighting for single-file Vue components
@@ -256,7 +256,7 @@
 
 #### 前端基础
 
-* [awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn) ⭐ 7,796 | 🐛 3 | 📅 2022-04-13
+* [awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn) ⭐ 7,796 | 🐛 2 | 📅 2022-04-13
   JavaScript 资源大全中文版，内容包括：包管理器、加载器、测试框架、运行器、QA、MVC框架和库、模板引擎等
 
 * [Front-End-Develop-Guide](https://github.com/icepy/Front-End-Develop-Guide) ⚠️ Archived
@@ -265,7 +265,7 @@
 * [awesome-css-cn](https://github.com/jobbole/awesome-css-cn) ⭐ 1,689 | 🐛 0 | 📅 2020-06-28
   CSS 资源大全中文版，内容包括：CSS预处理器、框架、CSS结构、代码风格指南、命名习惯等等
 
-* [awesome-javascript](https://github.com/wwsun/awesome-javascript) ⭐ 760 | 🐛 2 | 📅 2019-05-04
+* [awesome-javascript](https://github.com/wwsun/awesome-javascript) ⭐ 758 | 🐛 2 | 📅 2019-05-04
   A learning guide for JavaScript programmers. <http://wwsun.github.io>
   中文
 
@@ -284,4 +284,4 @@ copyright (c) 2016 coderyi.all rights reserved.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._

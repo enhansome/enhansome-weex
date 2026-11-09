@@ -315,7 +315,7 @@
             "open_issues": 84,
             "owner": "bmfe",
             "repo": "eros",
-            "stars": 1985,
+            "stars": 1984,
             "topics": [
               "android",
               "app",
@@ -1501,7 +1501,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2022-04-13T09:32:03Z",
-                "open_issues": 3,
+                "open_issues": 2,
                 "owner": "jobbole",
                 "repo": "awesome-javascript-cn",
                 "stars": 7796,
@@ -1569,7 +1569,7 @@
                 "open_issues": 2,
                 "owner": "wwsun",
                 "repo": "awesome-javascript",
-                "stars": 760,
+                "stars": 758,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:17.782Z"
@@ -1584,7 +1584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T18:46:21.062Z",
+    "last_updated": "2026-11-09T23:22:54.248Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Weex guides, articles, sites, tools, projects and resources. ",
