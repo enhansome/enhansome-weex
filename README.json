@@ -21,7 +21,7 @@
                 "open_issues": 64,
                 "owner": "amfe",
                 "repo": "article",
-                "stars": 7518,
+                "stars": 7519,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:17.782Z"
@@ -42,7 +42,7 @@
                 "open_issues": 64,
                 "owner": "amfe",
                 "repo": "article",
-                "stars": 7518,
+                "stars": 7519,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:17.782Z"
@@ -1046,7 +1046,7 @@
                 "open_issues": 277,
                 "owner": "didi",
                 "repo": "chameleon",
-                "stars": 8932,
+                "stars": 8933,
                 "topics": [
                   "android",
                   "chameleon",
@@ -1076,7 +1076,7 @@
                 "open_issues": 301,
                 "owner": "antvis",
                 "repo": "F2",
-                "stars": 7995,
+                "stars": 7996,
                 "topics": [
                   "antv",
                   "charts",
@@ -1214,7 +1214,7 @@
                 "open_issues": 19,
                 "owner": "seerline",
                 "repo": "clchart",
-                "stars": 335,
+                "stars": 336,
                 "topics": [
                   "canvas",
                   "chart",
@@ -1504,7 +1504,7 @@
                 "open_issues": 2,
                 "owner": "jobbole",
                 "repo": "awesome-javascript-cn",
-                "stars": 7796,
+                "stars": 7799,
                 "topics": [
                   "javascript"
                 ]
@@ -1569,7 +1569,7 @@
                 "open_issues": 2,
                 "owner": "wwsun",
                 "repo": "awesome-javascript",
-                "stars": 758,
+                "stars": 759,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:17.782Z"
@@ -1584,7 +1584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T23:22:54.248Z",
+    "last_updated": "2026-11-10T20:45:52.511Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Weex guides, articles, sites, tools, projects and resources. ",
