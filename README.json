@@ -1046,7 +1046,7 @@
                 "open_issues": 277,
                 "owner": "didi",
                 "repo": "chameleon",
-                "stars": 8933,
+                "stars": 8934,
                 "topics": [
                   "android",
                   "chameleon",
@@ -1076,7 +1076,7 @@
                 "open_issues": 301,
                 "owner": "antvis",
                 "repo": "F2",
-                "stars": 7996,
+                "stars": 7997,
                 "topics": [
                   "antv",
                   "charts",
@@ -1584,7 +1584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T20:45:52.511Z",
+    "last_updated": "2026-11-11T21:15:31.112Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Weex guides, articles, sites, tools, projects and resources. ",
