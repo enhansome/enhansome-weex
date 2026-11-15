@@ -63,7 +63,7 @@
                 "open_issues": 179,
                 "owner": "weexteam",
                 "repo": "article",
-                "stars": 1208,
+                "stars": 1207,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:17.782Z"
@@ -204,7 +204,7 @@
             "open_issues": 179,
             "owner": "weexteam",
             "repo": "article",
-            "stars": 1208,
+            "stars": 1207,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:17.782Z"
@@ -225,7 +225,7 @@
             "open_issues": 179,
             "owner": "weexteam",
             "repo": "article",
-            "stars": 1208,
+            "stars": 1207,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:17.782Z"
@@ -246,7 +246,7 @@
             "open_issues": 179,
             "owner": "weexteam",
             "repo": "article",
-            "stars": 1208,
+            "stars": 1207,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:17.782Z"
@@ -267,7 +267,7 @@
             "open_issues": 179,
             "owner": "weexteam",
             "repo": "article",
-            "stars": 1208,
+            "stars": 1207,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:17.782Z"
@@ -577,7 +577,7 @@
                 "open_issues": 12,
                 "owner": "dodola",
                 "repo": "WeexOne",
-                "stars": 962,
+                "stars": 961,
                 "topics": [
                   "weex"
                 ]
@@ -1107,7 +1107,7 @@
                 "open_issues": 1,
                 "owner": "apache",
                 "repo": "incubator-weex-ui",
-                "stars": 4714,
+                "stars": 4713,
                 "topics": [
                   "mobile",
                   "ui-components",
@@ -1584,7 +1584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T19:01:31.865Z",
+    "last_updated": "2026-11-15T19:41:26.219Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Weex guides, articles, sites, tools, projects and resources. ",
