@@ -21,7 +21,7 @@
                 "open_issues": 67,
                 "owner": "amfe",
                 "repo": "article",
-                "stars": 7519,
+                "stars": 7518,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:17.782Z"
@@ -42,7 +42,7 @@
                 "open_issues": 67,
                 "owner": "amfe",
                 "repo": "article",
-                "stars": 7519,
+                "stars": 7518,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:17.782Z"
@@ -1046,7 +1046,7 @@
                 "open_issues": 277,
                 "owner": "didi",
                 "repo": "chameleon",
-                "stars": 8934,
+                "stars": 8932,
                 "topics": [
                   "android",
                   "chameleon",
@@ -1076,7 +1076,7 @@
                 "open_issues": 301,
                 "owner": "antvis",
                 "repo": "F2",
-                "stars": 7997,
+                "stars": 7998,
                 "topics": [
                   "antv",
                   "charts",
@@ -1504,7 +1504,7 @@
                 "open_issues": 2,
                 "owner": "jobbole",
                 "repo": "awesome-javascript-cn",
-                "stars": 7799,
+                "stars": 7798,
                 "topics": [
                   "javascript"
                 ]
@@ -1584,7 +1584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T23:18:56.689Z",
+    "last_updated": "2026-11-17T22:10:52.952Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Weex guides, articles, sites, tools, projects and resources. ",
