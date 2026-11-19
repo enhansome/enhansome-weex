@@ -21,7 +21,7 @@
                 "open_issues": 67,
                 "owner": "amfe",
                 "repo": "article",
-                "stars": 7518,
+                "stars": 7516,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:17.782Z"
@@ -42,7 +42,7 @@
                 "open_issues": 67,
                 "owner": "amfe",
                 "repo": "article",
-                "stars": 7518,
+                "stars": 7516,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:17.782Z"
@@ -315,7 +315,7 @@
             "open_issues": 84,
             "owner": "bmfe",
             "repo": "eros",
-            "stars": 1982,
+            "stars": 1981,
             "topics": [
               "android",
               "app",
@@ -346,7 +346,7 @@
             "open_issues": 28,
             "owner": "vuejs",
             "repo": "vue-syntax-highlight",
-            "stars": 1478,
+            "stars": 1477,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:17.782Z"
@@ -533,7 +533,7 @@
                 "open_issues": 16,
                 "owner": "zwwill",
                 "repo": "yanxuan-weex-demo",
-                "stars": 3007,
+                "stars": 3006,
                 "topics": [
                   "weex"
                 ]
@@ -556,7 +556,7 @@
                 "open_issues": 2,
                 "owner": "weexteam",
                 "repo": "hackernews-App-powered-by-Apache-Weex",
-                "stars": 1141,
+                "stars": 1140,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:17.782Z"
@@ -1046,7 +1046,7 @@
                 "open_issues": 277,
                 "owner": "didi",
                 "repo": "chameleon",
-                "stars": 8930,
+                "stars": 8929,
                 "topics": [
                   "android",
                   "chameleon",
@@ -1076,7 +1076,7 @@
                 "open_issues": 301,
                 "owner": "antvis",
                 "repo": "F2",
-                "stars": 7998,
+                "stars": 7996,
                 "topics": [
                   "antv",
                   "charts",
@@ -1107,7 +1107,7 @@
                 "open_issues": 1,
                 "owner": "apache",
                 "repo": "incubator-weex-ui",
-                "stars": 4713,
+                "stars": 4712,
                 "topics": [
                   "mobile",
                   "ui-components",
@@ -1133,7 +1133,7 @@
                 "open_issues": 26,
                 "owner": "alibaba",
                 "repo": "bindingx",
-                "stars": 1269,
+                "stars": 1268,
                 "topics": [
                   "android",
                   "design",
@@ -1162,7 +1162,7 @@
                 "open_issues": 26,
                 "owner": "alibaba",
                 "repo": "bindingx",
-                "stars": 1269,
+                "stars": 1268,
                 "topics": [
                   "android",
                   "design",
@@ -1214,7 +1214,7 @@
                 "open_issues": 19,
                 "owner": "seerline",
                 "repo": "clchart",
-                "stars": 336,
+                "stars": 335,
                 "topics": [
                   "canvas",
                   "chart",
@@ -1504,7 +1504,7 @@
                 "open_issues": 2,
                 "owner": "jobbole",
                 "repo": "awesome-javascript-cn",
-                "stars": 7797,
+                "stars": 7795,
                 "topics": [
                   "javascript"
                 ]
@@ -1569,7 +1569,7 @@
                 "open_issues": 2,
                 "owner": "wwsun",
                 "repo": "awesome-javascript",
-                "stars": 759,
+                "stars": 758,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:17.782Z"
@@ -1584,7 +1584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T21:48:56.879Z",
+    "last_updated": "2026-11-19T22:05:24.175Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Weex guides, articles, sites, tools, projects and resources. ",
