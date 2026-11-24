@@ -18,10 +18,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2016-03-19T01:29:34Z",
-                "open_issues": 67,
+                "open_issues": 70,
                 "owner": "amfe",
                 "repo": "article",
-                "stars": 7516,
+                "stars": 7515,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:17.782Z"
@@ -39,10 +39,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2016-03-19T01:29:34Z",
-                "open_issues": 67,
+                "open_issues": 70,
                 "owner": "amfe",
                 "repo": "article",
-                "stars": 7516,
+                "stars": 7515,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:17.782Z"
@@ -1076,7 +1076,7 @@
                 "open_issues": 301,
                 "owner": "antvis",
                 "repo": "F2",
-                "stars": 7996,
+                "stars": 7995,
                 "topics": [
                   "antv",
                   "charts",
@@ -1584,7 +1584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T20:39:51.681Z",
+    "last_updated": "2026-11-24T01:36:06.375Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Weex guides, articles, sites, tools, projects and resources. ",
