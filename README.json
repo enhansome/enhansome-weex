@@ -21,7 +21,7 @@
                 "open_issues": 71,
                 "owner": "amfe",
                 "repo": "article",
-                "stars": 7515,
+                "stars": 7514,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:17.782Z"
@@ -42,7 +42,7 @@
                 "open_issues": 71,
                 "owner": "amfe",
                 "repo": "article",
-                "stars": 7515,
+                "stars": 7514,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:17.782Z"
@@ -1076,7 +1076,7 @@
                 "open_issues": 301,
                 "owner": "antvis",
                 "repo": "F2",
-                "stars": 7995,
+                "stars": 7996,
                 "topics": [
                   "antv",
                   "charts",
@@ -1584,7 +1584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T23:26:41.038Z",
+    "last_updated": "2026-11-25T23:01:28.413Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Weex guides, articles, sites, tools, projects and resources. ",
