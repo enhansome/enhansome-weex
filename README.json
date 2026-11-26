@@ -18,7 +18,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2016-03-19T01:29:34Z",
-                "open_issues": 71,
+                "open_issues": 79,
                 "owner": "amfe",
                 "repo": "article",
                 "stars": 7514,
@@ -39,7 +39,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2016-03-19T01:29:34Z",
-                "open_issues": 71,
+                "open_issues": 79,
                 "owner": "amfe",
                 "repo": "article",
                 "stars": 7514,
@@ -367,7 +367,7 @@
             "open_issues": 31,
             "owner": "posva",
             "repo": "vim-vue",
-            "stars": 1273,
+            "stars": 1274,
             "topics": [
               "vim",
               "vue"
@@ -391,7 +391,7 @@
             "open_issues": 20,
             "owner": "alibaba",
             "repo": "Thera",
-            "stars": 303,
+            "stars": 302,
             "topics": [
               "android",
               "hybrid",
@@ -1504,7 +1504,7 @@
                 "open_issues": 2,
                 "owner": "jobbole",
                 "repo": "awesome-javascript-cn",
-                "stars": 7795,
+                "stars": 7794,
                 "topics": [
                   "javascript"
                 ]
@@ -1584,7 +1584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T23:01:28.413Z",
+    "last_updated": "2026-11-26T22:55:13.127Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Weex guides, articles, sites, tools, projects and resources. ",
