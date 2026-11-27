@@ -1504,7 +1504,7 @@
                 "open_issues": 2,
                 "owner": "jobbole",
                 "repo": "awesome-javascript-cn",
-                "stars": 7794,
+                "stars": 7792,
                 "topics": [
                   "javascript"
                 ]
@@ -1527,7 +1527,7 @@
                 "open_issues": 0,
                 "owner": "icepy",
                 "repo": "Front-End-Develop-Guide",
-                "stars": 2908,
+                "stars": 2907,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:17.782Z"
@@ -1584,7 +1584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T22:55:13.127Z",
+    "last_updated": "2026-11-27T22:37:57.610Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Weex guides, articles, sites, tools, projects and resources. ",
